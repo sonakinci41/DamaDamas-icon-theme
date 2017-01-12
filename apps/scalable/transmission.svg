@@ -15,7 +15,7 @@
    id="svg5186"
    sodipodi:version="0.32"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="transgui-2.svg"
+   sodipodi:docname="transmission.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/andreas/project/application icons/48x48/transmission.png"
    inkscape:export-xdpi="90"
@@ -61,28 +61,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient5823">
-      <stop
-         style="stop-color:#2e3436;stop-opacity:1;"
-         offset="0"
-         id="stop5825" />
-      <stop
-         style="stop-color:#2e3436;stop-opacity:0;"
-         offset="1"
-         id="stop5827" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5823"
-       id="linearGradient5829"
-       x1="23.732271"
-       y1="30.057167"
-       x2="23.688078"
-       y2="22.632544"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(10.347364,0,0,10.347364,1.820088,-459.12248)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5908"
        id="linearGradient5914"
        x1="24.040522"
@@ -90,19 +68,6 @@
        x2="24.040522"
        y2="10.0086"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter9771"
-       x="-0.029765811"
-       width="1.0595316"
-       y="-0.13995509"
-       height="1.2799102"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.5196773"
-         id="feGaussianBlur9773" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient9783"
@@ -129,9 +94,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="116.50713"
-     inkscape:cy="298.05135"
+     inkscape:zoom="0.5"
+     inkscape:cx="932.33186"
+     inkscape:cy="206.41249"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -202,29 +167,13 @@
        rx="11.137069"
        ry="11.137067" />
     <rect
-       style="fill:url(#linearGradient5829);fill-opacity:1;stroke:none"
+       style="fill:#666666;fill-opacity:1;stroke:none"
        id="rect5244"
        width="84.141937"
        height="83.227364"
        x="208.5166"
        y="-231.3374"
-       rx="11.137069"
-       ry="11.137067" />
-    <path
-       style="opacity:0.43518521;fill:none;stroke:#ffffff;stroke-width:10.34736347px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 120.02187,-29.848425 290.86894,0"
-       id="path5879"
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.33500001;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="path5119"
-       sodipodi:cx="9.8553009"
-       sodipodi:cy="42.188465"
-       sodipodi:rx="1.1932427"
-       sodipodi:ry="1.0827572"
-       d="m 11.048544,42.188465 c 0,0.59799 -0.534233,1.082757 -1.1932431,1.082757 -0.6590097,0 -1.1932427,-0.484767 -1.1932427,-1.082757 0,-0.59799 0.534233,-1.082757 1.1932427,-1.082757 0.6590101,0 1.1932431,0.484767 1.1932431,1.082757 z"
-       transform="matrix(4.3627093,0,0,4.9315866,57.31785,-237.76878)" />
+       rx="0"
+       ry="0" />
   </g>
 </svg>
