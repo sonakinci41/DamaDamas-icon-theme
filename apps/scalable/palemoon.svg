@@ -14,7 +14,7 @@
    height="100%"
    viewBox="0 0 512 512"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="palemoon.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="716"
      id="namedview44"
      showgrid="false"
      inkscape:zoom="0.23046875"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -202,8 +202,4 @@
        y="535.94"
        id="tspan78" />
   </text>
-  <path
-     style="fill:#000000;fill-opacity:0.15686275;stroke:none"
-     d="M 128.58008 57.525391 A 235.8575 235.8575 0 0 0 20.142578 256 A 235.8575 235.8575 0 0 0 256 491.85742 A 235.8575 235.8575 0 0 0 435.48828 408.91602 A 235.8575 235.8575 0 0 1 308.06836 446.29883 A 235.8575 235.8575 0 0 1 72.210938 210.44141 A 235.8575 235.8575 0 0 1 128.58008 57.525391 z "
-     id="circle4208" />
 </svg>
