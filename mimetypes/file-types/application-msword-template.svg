@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="application-msword.svg">
+   sodipodi:docname="application-msword-template.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-552.36218)">
     <rect
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect3000"
        width="450"
        height="450"
@@ -129,7 +129,7 @@
        sodipodi:cy="126.28571"
        sodipodi:rx="71.428574"
        sodipodi:ry="74.285713"
-       d="m 1014.2857,126.28571 a 71.428574,74.285713 0 1 1 -8e-4,-0.34876"
+       d="m 1014.2857,126.28571 c 0,41.02687 -31.97967,74.28572 -71.42858,74.28572 -39.44892,0 -71.42858,-33.25885 -71.42858,-74.28572 C 871.42854,85.258847 903.4082,52 942.85712,52 c 39.31801,0 71.24318,33.046669 71.42778,73.93695"
        transform="matrix(0.13152319,7.9119943e-5,-7.3233609e-5,0.1264646,232.2301,821.75165)"
        sodipodi:start="0"
        sodipodi:end="6.2784904"

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="application-pgp-keys.svg">
+   sodipodi:docname="application-pkcs7-mime.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-552.36218)">
     <rect
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect3000"
        width="450"
        height="450"
@@ -124,7 +124,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        sodipodi:type="arc"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path3774"
        sodipodi:cx="677.40833"
        sodipodi:cy="534.62744"
