@@ -14,7 +14,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="synaptiks.svg"
+   sodipodi:docname="input-touchpad.svg"
    viewBox="0 0 500 500">
   <defs
      id="defs5455" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39824776"
-     inkscape:cx="-229.28759"
-     inkscape:cy="-134.5241"
+     inkscape:zoom="0.79649552"
+     inkscape:cx="146.49622"
+     inkscape:cy="103.77756"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -113,29 +113,33 @@
        id="rect4086"
        width="449.99991"
        height="450"
-       x="409.57144"
-       y="72.797997"
-       ry="0" />
+       x="-859.57147"
+       y="-522.79797"
+       ry="0"
+       transform="scale(-1,-1)" />
     <rect
        style="fill:#808080;fill-opacity:1;stroke:none"
        id="rect4118"
        width="225.00005"
        height="123.74966"
-       x="409.57144"
-       y="72.797997" />
+       x="-859.57147"
+       y="-522.79797"
+       transform="scale(-1,-1)" />
     <rect
-       y="72.797997"
-       x="634.57141"
+       y="-522.79797"
+       x="-634.57147"
        height="123.74966"
        width="225.00005"
        id="rect4120"
-       style="fill:#808080;fill-opacity:1;stroke:none" />
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       transform="scale(-1,-1)" />
     <rect
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#999999;fill-opacity:1;stroke:none"
        id="rect4122"
        width="11.250003"
        height="123.74966"
-       x="628.94641"
-       y="72.797997" />
+       x="-640.19647"
+       y="-522.79797"
+       transform="scale(-1,-1)" />
   </g>
 </svg>
