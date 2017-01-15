@@ -198,7 +198,7 @@
      id="layer1"
      transform="translate(-550.28572,-606.6479)">
     <path
-       style="fill:#182128;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 12.007812 4 L 3.8300781 12.177734 L 8.3457031 20 L 15.619141 20 L 19.636719 13.042969 L 20.154297 12.146484 L 12.007812 4 z M 12.005859 5.4140625 L 18.904297 12.310547 L 15.042969 19 L 8.9238281 19 L 5.0800781 12.341797 L 12.005859 5.4140625 z "
        transform="translate(550.28572,606.6479)"
        id="path4198" />

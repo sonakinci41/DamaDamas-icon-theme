@@ -40,7 +40,7 @@
       <stop
          id="stop4025-2"
          offset="1"
-         style="stop-color:#292f34;stop-opacity:1;" />
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -116,23 +116,23 @@
          id="layer1-6"
          inkscape:label="Capa 1">
         <path
-           style="fill:#292f34;fill-opacity:1;stroke:none"
+           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
            d="m 12.333343,1038.6958 0,-5.3334 3.99999,2.6667 -3.99999,2.6667 z"
            id="rect4109-3"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#292f34;fill-opacity:1;stroke:none"
+           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
            d="m 9.6666674,1033.3625 0,5.3334 -3.9999916,-2.6667 3.9999916,-2.6667 z"
            id="rect4109-3-8" />
         <path
-           style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="M 11 6 L 11 7 L 9 7 L 9 12 L 9 13 L 11 13 L 11 14 L 12 14 L 12 13 L 13 13 L 14 13 L 14 7 L 13 7 L 12 7 L 12 6 L 11 6 z M 10 8 L 13 8 L 13 12 L 10 12 L 10 8 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect4147" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="m 5.6666661,1038.6957 0,1.3334 -2.6666667,0 0,6.6666 0,1.3334 2.6666667,0 0,1.3333 1.3333333,0 0,-1.3333 1.3333333,0 1.333333,0 0,-8 -1.333333,0 -1.3333333,0 0,-1.3334 -1.3333333,0 z m -1.3333334,2.6667 4,0 0,5.3333 -4,0 0,-5.3333 z"
            id="rect4147-3" />
       </g>

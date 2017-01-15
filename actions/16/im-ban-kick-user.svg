@@ -29,7 +29,7 @@
          height="1"
          width="1"
          id="rect4162"
-         style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -96,7 +96,7 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 8 2 A 6 6 0 0 0 2 8 A 6 6 0 0 0 8 14 A 6 6 0 0 0 14 8 A 6 6 0 0 0 8 2 z M 8 3 A 5 5 0 0 1 11.162109 4.1308594 L 8 7.2929688 L 4.8378906 4.1308594 A 5 5 0 0 1 8 3 z M 4.1308594 4.8378906 L 7.2929688 8 L 4.1308594 11.162109 A 5 5 0 0 1 3 8 A 5 5 0 0 1 4.1308594 4.8378906 z M 11.869141 4.8378906 A 5 5 0 0 1 13 8 A 5 5 0 0 1 11.869141 11.162109 L 8.7070312 8 L 11.869141 4.8378906 z M 8 8.7070312 L 11.162109 11.869141 A 5 5 0 0 1 8 13 A 5 5 0 0 1 4.8378906 11.869141 L 8 8.7070312 z "
        transform="translate(421.71429,531.79074)"
        id="path4284" />

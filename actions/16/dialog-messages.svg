@@ -93,14 +93,14 @@
          id="layer1-6"
          inkscape:label="Capa 1">
         <rect
-           style="fill:#292f34;fill-opacity:1;stroke:none"
+           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
            id="rect4035"
            width="0"
            height="14.66668"
            x="-22.333332"
            y="1034.6957" />
         <path
-           style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="M 2 3 L 2 11 L 5 14 L 5 11 L 14 11 L 14 3 L 2 3 z M 3 4 L 13 4 L 13 10 L 3 10 L 3 4 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect4144" />

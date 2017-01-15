@@ -90,14 +90,14 @@
          inkscape:connector-curvature="0"
          id="rect4176"
          d="m 431.71429,539.79074 -1.95349,-1.875 -4.29767,-4.125 -0.13024,0.125 -0.39069,0.375 -0.22791,0.21875 4.29768,4.125 1.23721,1.15625 -1.23721,1.15625 -4.29768,4.125 0.74884,0.71875 4.29767,-4.125 1.95349,-1.875 z"
-         style="fill:#292f34;fill-opacity:1;stroke:none" />
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
       <rect
          y="533.79071"
          x="433.71429"
          height="12.00003"
          width="1.0000041"
          id="rect4139"
-         style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     </g>
   </g>
 </svg>

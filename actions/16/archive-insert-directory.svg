@@ -78,21 +78,21 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:#292f34;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="m 2,2 0,1 0,3 0,1 0,6 0,1 7,-1.7e-5 L 9,13 3,13 3,7 l 10,0 0,2 1,0 0,-3 0,-1 0,-1 -4.9921875,0 -2,-2 L 7,2.0078125 7,2 3,2 Z M 3,3 6.5917969,3 7.59375,4 7,4 7,4.0078125 6.9921875,4 l -2,2 L 3,6 Z"
        transform="translate(0,1036.3622)"
        id="rect4079"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
     <rect
-       style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect4139"
        width="1"
        height="4.9999828"
        x="11"
        y="1045.3622" />
     <rect
-       style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect4141"
        width="5"
        height="1"

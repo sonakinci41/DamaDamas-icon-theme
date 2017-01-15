@@ -118,7 +118,7 @@
      id="layer1"
      transform="translate(-550.28572,-606.6479)">
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="m 555.28572,610.6479 1,0.57227 13,7.42773 -13,7.42773 -1,0.57227 0,-1.15625 0,-13.84375 0,-1 z m 1,1.58398 0,12.6875 10.97656,-6.27148 -10.97656,-6.41602 z"
        id="rect4176"
        inkscape:connector-curvature="0" />

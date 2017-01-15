@@ -13,7 +13,7 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="audio-volume-low.svg">
   <defs
      id="defs3762" />
@@ -35,9 +35,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true">
@@ -97,7 +97,7 @@
      id="layer1"
      transform="translate(-551.28571,-607.64788)">
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.79999995000000013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026454999999996"
        d="M 10.988281 3 L 6 6.9960938 L 6 8 L 6 15 L 6 15.003906 L 10.988281 19 L 11 19 L 12 19 L 12 18.529297 L 12 3.4707031 L 12 3 L 11 3 L 10.988281 3 z M 11 4.2714844 L 11 17.728516 L 7 14.523438 L 7 7.4765625 L 11 4.2714844 z M 3 8 L 3 14 L 5 14 L 5 8 L 3 8 z "
        transform="translate(551.28571,607.64788)"
        id="path4151" />

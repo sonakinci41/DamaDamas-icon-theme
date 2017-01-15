@@ -85,7 +85,7 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 8,2 C 7.8343783,2.5688341 7.6109738,3.1245942 7.3691406,3.6699219 6.1367143,6.3700802 4.2075209,8.2177442 4.0214844,9.921875 4.0166049,9.9472935 4.0041436,9.974705 4,10 l 0.015625,0.0059 C 4.0112265,10.064529 4,10.123185 4,10.181641 4,12.290341 5.79086,14 8,14 c 2.20914,0 4,-1.709659 4,-3.818359 0,-0.05845 -0.01163,-0.117182 -0.01563,-0.175782 L 12,10 C 11.9958,9.9747 11.983516,9.947275 11.978516,9.921875 11.792476,8.217735 9.8632894,6.3700819 8.6308594,3.6699219 8.3890294,3.1245919 8.16562,2.56883 8,2 Z m 0,1.4648438 c 0.5799,1.36563 1.3376835,2.5099793 1.9960938,3.5058593 0.2489012,0.387442 0.5134892,0.7986795 0.7589062,1.2318019 0.0051,0.00871 -0.0033,0.019945 -0.005,0.029917 0.0698,0.28165 0.105852,0.569955 0.107422,0.859375 -10e-4,2.1080301 -1.7915901,3.8164061 -4.0000001,3.8164061 C 6.5602411,12.907266 6.264219,12.874061 5.9746094,12.810547 5.1282269,12.21444 4.5720204,11.262694 4.5722656,10.181641 4.5726865,9.8704696 4.6265157,9.5644911 4.7167969,9.2695312 5.0534566,8.4251312 5.5583602,7.6642544 6.0039062,6.9707031 6.6623166,5.9748224 7.4200969,4.83047 8,3.4648438 Z M 6.0039062,12.832031 c 0.085422,0.05887 0.1754463,0.109321 0.265625,0.160157 -0.090795,-0.05113 -0.1804483,-0.101508 -0.265625,-0.160157 z m 0.5332032,0.298828 c 0.089811,0.04082 0.1823614,0.07621 0.2753906,0.109375 -0.094111,-0.03336 -0.1853903,-0.06854 -0.2753906,-0.109375 z m 0.5859375,0.203125 c 0.088154,0.02259 0.175691,0.04668 0.265625,0.0625 -0.090968,-0.0157 -0.1773069,-0.0401 -0.265625,-0.0625 z"
        transform="translate(421.71429,531.79074)"
        id="path4187-4"
@@ -98,28 +98,28 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
     <rect
-       style="fill:#292f34;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        id="rect4035"
        width="0"
        height="10.999983"
        x="404.71429"
        y="534.79071" />
     <rect
-       style="fill:#292f34;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        id="rect4035-5"
        width="0"
        height="10.999983"
        x="422.75507"
        y="532.73938" />
     <rect
-       style="fill:#292f34;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        id="rect4035-8"
        width="0"
        height="10.999983"
        x="404.71429"
        y="534.79071" />
     <rect
-       style="fill:#292f34;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        id="rect4035-59"
        width="0"
        height="10.999983"

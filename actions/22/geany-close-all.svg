@@ -93,7 +93,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <rect
-       style="fill:#e74c3c;fill-opacity:1;stroke:none"
+       style="fill:#aa0000;fill-opacity:1;stroke:none"
        id="rect4103"
        width="21.628"
        height="0.9999823"
@@ -107,6 +107,6 @@
        height="0.9999823"
        width="21.628"
        id="rect4105"
-       style="fill:#e74c3c;fill-opacity:1;stroke:none" />
+       style="fill:#aa0000;fill-opacity:1;stroke:none" />
   </g>
 </svg>

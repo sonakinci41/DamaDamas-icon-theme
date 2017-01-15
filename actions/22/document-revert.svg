@@ -125,7 +125,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="m 1,1033.3602 0,0 0,16 1,0 8,0 1,0 0,-0.01 0.0078,0.01 L 15,1045.37 l 0,-0.01 0,-1.4062 0,-10.5938 -1,0 -12,0 z m 1,1.002 12,0 0,10 -4,0 0,1 0,3 -8,0 z m 19,5 -3,3 3,3 z"
        id="rect4139"
        inkscape:connector-curvature="0"

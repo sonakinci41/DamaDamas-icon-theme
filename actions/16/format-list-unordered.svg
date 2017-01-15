@@ -88,13 +88,13 @@
        id="layer1-1"
        inkscape:label="Capa 1" />
     <path
-       style="fill:#292f34;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="M 6 2 L 6 3 L 8 3 L 14 3 L 14 2 L 8 2 L 6 2 z M 6 4 L 6 5 L 8 5 L 12 5 L 12 4 L 8 4 L 6 4 z M 6 8 L 6 9 L 8 9 L 14 9 L 14 8 L 8 8 L 6 8 z M 6 10 L 6 11 L 8 11 L 10 11 L 10 10 L 8 10 L 6 10 z M 11 10 L 11 11 L 12.875 11 L 13 11 L 14 11 L 14 10 L 13 10 L 12.875 10 L 11 10 z M 12 13 L 12 14 L 14 14 L 14 13 L 12 13 z "
        transform="translate(421.71429,531.79074)"
        id="path4174" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path4962"
        sodipodi:cx="19"
        sodipodi:cy="3"
@@ -104,7 +104,7 @@
        transform="translate(406.71429,531.79074)" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#292f34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path4964"
        sodipodi:cx="19"
        sodipodi:cy="9"

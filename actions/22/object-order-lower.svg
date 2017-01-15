@@ -154,7 +154,7 @@
          sodipodi:nodetypes="cccccccccccccc"
          id="rect4071-0-1"
          d="m 6,1033.3622 0,0 0,7.0937 -2.28125,-2.2187 L 3,1038.9559 6.28125,1042.1434 6.5,1042.3622 6.71875,1042.1434 10,1038.9559 9.28125,1038.2372 7,1040.4559 l 0,-7.0937 0,0 z"
-         style="fill:#182128;fill-opacity:1;stroke:none"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <rect
          y="1048.3622"
@@ -162,28 +162,28 @@
          height="1"
          width="8"
          id="rect4743"
-         style="color:#000000;fill:#182128;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          y="1033.3622"
          x="9"
          height="1"
          width="10"
          id="rect4745"
-         style="color:#000000;fill:#182128;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          y="1038.3622"
          x="11"
          height="1"
          width="8"
          id="rect4747"
-         style="color:#000000;fill:#182128;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          y="1043.3622"
          x="3"
          height="1"
          width="16"
          id="rect4749"
-         style="color:#000000;fill:#182128;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
 </svg>

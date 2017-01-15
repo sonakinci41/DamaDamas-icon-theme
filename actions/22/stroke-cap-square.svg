@@ -98,7 +98,7 @@
      id="layer1"
      transform="translate(-421.71429,-525.79074)">
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
        d="M 6 3 L 6 4 L 6 19 L 7 19 L 10 19 L 10 18 L 10 7 L 12 7 L 12 19 L 13 19 L 15 19 L 16 19 L 16 6 L 16 3 L 10 3 L 7 3 L 6 3 z M 7 4 L 10 4 L 15 4 L 15 7 L 15 18 L 13 18 L 13 6 L 10 6 L 9 6 L 9 7 L 9 18 L 7 18 L 7 4 z "
        transform="translate(421.71429,525.79074)"
        id="rect4144" />

@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="emblem-danger.svg">
   <defs
      id="defs4" />
@@ -31,8 +31,8 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="695"
-     inkscape:window-x="-4"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -71,33 +71,34 @@
      transform="translate(0,-1028.3622)">
     <g
        id="g4147"
-       style="fill:#e74c3c;fill-opacity:1">
+       style="fill:#aa0000;fill-opacity:1">
       <g
          transform="translate(-0.25,-0.12230652)"
          id="g4148"
-         style="fill:#e74c3c;fill-opacity:1">
+         style="fill:#aa0000;fill-opacity:1">
         <g
-           style="fill:#e74c3c;fill-opacity:1"
+           style="fill:#aa0000;fill-opacity:1"
            transform="matrix(0.44029588,0,0,0.28111603,-9.7643537,1026.3064)"
            id="g5">
           <path
-             style="fill:#e74c3c;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1"
              inkscape:connector-curvature="0"
              d="m 47.982,36.647 c 0.542,-0.583 1.262,-0.876 2.151,-0.876 1.076,0 1.797,0.375 2.16,1.119 0.365,0.746 0.544,1.82 0.544,3.224 0,0.828 -0.042,1.666 -0.132,2.52 L 51.9,51.898 c -0.088,1.104 -0.277,1.949 -0.563,2.538 -0.292,0.59 -0.764,0.886 -1.427,0.886 -0.681,0 -1.148,-0.287 -1.413,-0.858 -0.264,-0.569 -0.451,-1.438 -0.563,-2.604 L 47.33,42.859 c -0.112,-1.755 -0.169,-3.014 -0.169,-3.778 10e-4,-1.04 0.273,-1.852 0.821,-2.434 z"
              id="path7" />
         </g>
         <circle
-           style="fill:#e74c3c;fill-opacity:1;stroke:none"
+           style="fill:#aa0000;fill-opacity:1;stroke:none"
            id="path4146"
            cx="12.232786"
            cy="1043.6068"
-           r="1" />
+           r="1"
+           d="m 13.232786,1043.6068 c 0,0.5523 -0.447715,1 -1,1 -0.552285,0 -1,-0.4477 -1,-1 0,-0.5523 0.447715,-1 1,-1 0.552285,0 1,0.4477 1,1 z" />
       </g>
       <path
          id="path4142"
          transform="translate(0,1028.3622)"
          d="M 12 4 A 8 8 0 0 0 4 12 A 8 8 0 0 0 12 20 A 8 8 0 0 0 20 12 A 8 8 0 0 0 12 4 z M 12 5 A 7 7 0 0 1 19 12 A 7 7 0 0 1 12 19 A 7 7 0 0 1 5 12 A 7 7 0 0 1 12 5 z "
-         style="opacity:1;fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

@@ -95,7 +95,7 @@
      id="layer1"
      transform="translate(-378.85714,-540.07647)">
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="M 3 3 L 3 4 L 3 10 L 4 10 L 19 10 L 19 9 L 19 3 L 18 3 L 4 3 L 3 3 z M 4 4 L 18 4 L 18 9 L 4 9 L 4 4 z M 3 12 L 3 17 L 5 17 L 5 12 L 3 12 z M 7 12 L 7 19 L 9 19 L 9 12 L 7 12 z M 11 12 L 11 15 L 13 15 L 13 12 L 11 12 z M 15 12 L 15 15 L 19 15 L 19 12 L 15 12 z "
        transform="translate(378.85714,540.07647)"
        id="rect4108" />

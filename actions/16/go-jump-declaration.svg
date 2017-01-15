@@ -93,13 +93,13 @@
          id="layer1-6"
          inkscape:label="Capa 1">
         <path
-           style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
            d="m 16.333332,1033.3624 -1.333333,1.3334 -1.333334,1.3333 2.666667,2.6667 0,-1.7136 c 0.832553,1.2575 1.333333,2.7518 1.333333,4.3803 0,4.432 -3.567999,6.6666 -7.999999,6.6666 l 0,1.3333 c 5.170667,0 9.333332,-2.8293 9.333332,-7.9999 0,-2.5455 -1.023601,-4.8319 -2.666666,-6.5105 z"
            id="rect4110"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccsccscc" />
         <path
-           style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 2 2 L 2 14 L 3 14 L 3 7 L 9 7 L 9 3 L 3 3 L 3 2 L 2 2 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect4147" />

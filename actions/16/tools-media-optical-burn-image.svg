@@ -78,17 +78,17 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 8 4 A 4 4 0 0 0 4 8 L 6 8 A 2 2 0 0 1 8 6 L 8 4 z M 10 8 A 2 2 0 0 1 8 10 L 8 12 A 4 4 0 0 0 12 8 L 10 8 z "
        id="path4302"
        transform="translate(0,1036.3622)" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 8,1038.3622 a 6,6.0000086 0 0 0 -6,6 6,6.0000086 0 0 0 6,6 6,6.0000086 0 0 0 6,-6 6,6.0000086 0 0 0 -6,-6 z m 0,1 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z"
        id="path4201-0-7" />
     <circle
-       style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path4307"
        cx="8"
        cy="1044.3622"

@@ -96,12 +96,12 @@
      id="layer1"
      transform="translate(-544.57141,-742.93359)">
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="M 6 6 L 6 9 L 6 15 L 6 16 L 16 16 L 16 15 L 16 6 L 7 6 L 6 6 z M 7 9 L 15 9 L 15 15 L 7 15 L 7 9 z "
        id="path4114"
        transform="translate(544.57141,742.93359)" />
     <path
-       style="fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 547.57141,755.93359 2,-2 -2,-2 z"
        id="path4121"
        inkscape:connector-curvature="0" />
@@ -109,14 +109,14 @@
        inkscape:connector-curvature="0"
        id="path4123"
        d="m 563.57141,755.93359 -2,-2 2,-2 z"
-       style="fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4125"
        d="m 553.57141,745.93359 2,2 2,-2 z"
-       style="fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       style="fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 553.57141,761.93359 2,-2 2,2 z"
        id="path4127"
        inkscape:connector-curvature="0" />

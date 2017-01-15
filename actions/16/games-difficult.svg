@@ -89,18 +89,18 @@
        id="layer1-0"
        inkscape:label="Capa 1">
       <path
-         style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 1.6666667,1041.3622 5.9e-6,8 3.9999999,0 -5.8e-6,-8 z m 1.3333392,1.3333 1.3333274,0 5.9e-6,5.3334 -1.3333333,0 z"
          id="rect4267"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc" />
       <path
-         style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 15,1033.3622 0,16 4,0 0,-16 -4,0 z m 1.333333,1.3333 1.333334,0 0,13.3334 -1.333334,0 0,-13.3334 z"
          id="rect4272"
          inkscape:connector-curvature="0" />
       <path
-         style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 6 5 L 6 14 L 9 14 L 9 5 L 6 5 z M 7 6 L 8 6 L 8 13 L 7 13 L 7 6 z "
          transform="matrix(1.3333333,0,0,1.3333367,0.33333333,1030.6955)"
          id="rect4277" />

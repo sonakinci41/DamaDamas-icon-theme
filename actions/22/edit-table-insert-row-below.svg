@@ -103,10 +103,10 @@
        inkscape:connector-curvature="0"
        id="rect4139"
        d="m 475.71429,542.79075 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 0,2 -2,0 0,1 z"
-       style="fill:#182128;fill-opacity:1;stroke:none" />
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="m 464.71429,528.79075 1,0 15,0 0,1 0,9 -1,0 0,-4 -2,0 0,4 -1,0 0,-4 -2,0 0,4 0,6 -1,0 0,-6 0,-4 -2,0 0,4 -1,0 0,-4 -2,0 0,4 -1,0 0,-4 -1,0 -1,0 0,4 0,6 -1,0 0,-6 0,-10 z m 1,1 0,4 1,0 1,0 0,-1 0,-3 -2,0 z m 3,0 0,3 0,1 2,0 0,-4 -2,0 z m 3,0 0,4 2,0 0,-4 -2,0 z m 3,0 0,4 2,0 0,-1 0,-3 -2,0 z m 3,0 0,3 0,1 1.09961,0 0.90039,0 0,-4 -2,0 z"
        id="rect4108-9" />
   </g>

@@ -110,7 +110,7 @@
      id="layer1"
      transform="translate(-553.72253,-583.11926)">
     <path
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 572.72253,602.11926 -1,-0.0996 -9,-0.90039 0,-1 0,-9 0,-1 1,0.0996 9,0.90039 0,1 0,9 0,1 z m -1,-1.09961 0,-9 -8,-0.80078 0,9 8,0.80078 z m -15,-1.90039 0,-1 0,-11 0,-1 9,0 1,0 0,1 0,2 -1,0 0,-2 -8,0 0,11 4,0 0,1 -5,0 z"
        id="rect4152"
        inkscape:connector-curvature="0" />

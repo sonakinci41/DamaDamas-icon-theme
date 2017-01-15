@@ -102,15 +102,15 @@
       <path
          id="path4152"
          d="m 429.71429,542.79074 0,-1 11,0 0,1 z"
-         style="opacity:1;fill:#182128;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
       <path
          id="path4148"
          d="m 429.71429,536.79074 0,-1 11,0 0,1 z"
-         style="opacity:1;fill:#182128;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
       <path
          id="rect4108"
          d="m 429.71429,530.79074 0,-1 11,0 0,1 z"
-         style="opacity:1;fill:#182128;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
       <rect
          ry="2"
          y="528.79071"
@@ -134,7 +134,7 @@
          height="4.00003"
          width="4"
          id="rect4195"
-         style="opacity:1;fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
+         style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
     </g>
   </g>
 </svg>

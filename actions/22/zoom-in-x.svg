@@ -96,23 +96,23 @@
      id="layer1"
      transform="translate(-544.57141,-742.93359)">
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="m 558.57141,745.93359 0,2.82843 -7.77817,2.12132 7.77817,2.12132 0,2.82843 4.94975,-4.94975 -4.94975,-4.94975 z"
        id="rect4134-6-3"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="M 3 13 L 3 14 L 3 19 L 4 19 L 8 19 L 9 19 L 9 18 L 9 14 L 9 13 L 8 13 L 3 13 z M 4 14 L 8 14 L 8 18 L 4 18 L 4 14 z "
        transform="translate(544.57141,742.93359)"
        id="rect3105" />
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="M 3 3 L 3 4 L 3 9 L 4 9 L 4 4 L 9 4 L 9 3 L 4 3 L 3 3 z "
        transform="translate(544.57141,742.93359)"
        id="rect3006" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="m 563.57141,761.93359 0,-1 0,-5 -1,0 0,5 -5,0 0,1 5,0 1,0 z"
        id="rect3006-6" />
   </g>

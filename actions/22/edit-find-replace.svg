@@ -141,17 +141,17 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#182128;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#1a1a1a;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 12.29286,1043.3622 0.707107,-0.7071 6.000032,6 -0.707075,0.7071 z"
        id="path4146"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="M 9 3 C 5.6759952 3 3 5.6759952 3 9 C 3 12.324005 5.6759952 15 9 15 C 12.324005 15 15 12.324005 15 9 C 15 5.6759952 12.324005 3 9 3 z M 9 4 C 11.770005 4 14 6.2299952 14 9 C 14 11.770005 11.770005 14 9 14 C 6.2299952 14 4 11.770005 4 9 C 4 6.2299952 6.2299952 4 9 4 z "
        transform="translate(0,1030.3622)"
        id="rect4095" />
     <rect
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
        id="rect4121"
        width="1.9999826"
        height="1.9999826"
@@ -165,9 +165,9 @@
        height="1.9999826"
        width="1.9999826"
        id="rect4123"
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
     <rect
-       style="opacity:1;fill:#182128;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
        id="rect4125"
        width="1.9999826"
        height="1.9999826"

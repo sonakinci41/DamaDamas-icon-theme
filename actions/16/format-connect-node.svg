@@ -40,7 +40,7 @@
       <stop
          id="stop4025-2"
          offset="1"
-         style="stop-color:#292f34;stop-opacity:1;" />
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -122,7 +122,7 @@
            d="m 8.3333327,1040.0291 2.6666663,4 2.666667,-4 z"
            style="fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
-           style="fill:#292f34;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="m 2.9999993,1033.3624 0,4 3.9999999,0 0,-1.3333 7.9999998,0 0,1.3333 4,0 0,-4 -4,0 0,1.3333 -7.9999998,0 0,-1.3333 -3.9999999,0 z m 1.3333333,1.3333 1.3333333,0 0,1.3334 -1.3333333,0 0,-1.3334 z m 11.9999994,0 1.333334,0 0,1.3334 -1.333334,0 0,-1.3334 z m -13.3333327,10.6667 0,4 3.9999999,0 0,-1.3333 2.6666666,0 0,-1.3333 -2.6666666,0 0,-1.3334 -3.9999999,0 z m 11.9999997,0 0,1.3334 -2.666667,0 0,1.3333 2.666667,0 0,1.3333 4,0 0,-4 -4,0 z m -10.6666664,1.3334 1.3333333,0 0,1.3333 -1.3333333,0 0,-1.3333 z m 11.9999994,0 1.333334,0 0,1.3333 -1.333334,0 0,-1.3333 z"
            id="rect4482"
            inkscape:connector-curvature="0" />

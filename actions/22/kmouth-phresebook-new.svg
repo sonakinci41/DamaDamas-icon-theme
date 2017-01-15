@@ -102,14 +102,14 @@
        inkscape:connector-curvature="0"
        id="path4147-83"
        d="m 558.28571,610.64789 0,8 9,0 0,3 3,-3 0,-8 -12,0 z m 1,1 10,0 0,6 -10,0 0,-6 z"
-       style="fill:#182128;fill-opacity:1;stroke:none" />
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="M 4 7 L 4 15 L 7 18 L 7 15 L 16 15 L 16 11 L 15 11 L 15 14 L 5 14 L 5 8 L 9 8 L 9 7 L 4 7 z "
        id="path4147-83-0"
        transform="translate(550.28571,606.64789)" />
     <path
-       style="fill:#182128;fill-opacity:1;stroke:none"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="m 567.28573,622.64791 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
        id="path4147"
        inkscape:connector-curvature="0" />

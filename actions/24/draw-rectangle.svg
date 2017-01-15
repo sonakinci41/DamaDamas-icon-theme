@@ -109,7 +109,7 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="opacity:1;fill:#292f34;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="m 3,1033.3622 0,16 16,0 0,-16 -16,0 z m 1,1 14,0 0,14 -14,0 0,-14 z"
        id="rect4112"
        inkscape:connector-curvature="0" />
