@@ -21,11 +21,11 @@
     <linearGradient
        id="linearGradient896">
       <stop
-         style="stop-color:#1a1a1a;stop-opacity:1"
+         style="stop-color:#394050;stop-opacity:1"
          offset="0"
          id="stop898" />
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
+         style="stop-color:#5d6a7b;stop-opacity:1"
          offset="1"
          id="stop900" />
     </linearGradient>
@@ -155,7 +155,7 @@
      id="layer1"
      transform="translate(38.119153,-375.26716)">
     <rect
-       style="fill:#2c89a0;fill-opacity:1;stroke:none"
+       style="fill:#00bbf2;fill-opacity:1;stroke:none"
        id="rect907"
        width="33.605057"
        height="25.455061"
@@ -167,7 +167,7 @@
        height="2.994714"
        width="33.605045"
        id="rect920"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+       style="fill:#394050;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect825"

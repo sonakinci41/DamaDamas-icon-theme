@@ -84,18 +84,18 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ebebeb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 9.5 3 A 3.5 3.5 0 0 0 6 6.5 A 3.5 3.5 0 0 0 6.0390625 7 L 9 7 L 9 9.9589844 A 3.5 3.5 0 0 0 9.5 10 A 3.5 3.5 0 0 0 13 6.5 A 3.5 3.5 0 0 0 9.5 3 z M 9 9.9589844 A 3.5 3.5 0 0 1 6.0390625 7 L 3 7 L 3 13 L 9 13 L 9 9.9589844 z "
        transform="translate(421.71429,531.79074)"
        id="path4144" />
     <path
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 423.71429,537.79074 0,8 8,0 0,-8 -8,0 z m 1,1 6,0 0,6 -6,0 0,-6 z"
        id="rect4159-66-5"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 431.21429,533.79074 a 4.5,4.5 0 0 0 -4.5,4.5 4.5,4.5 0 0 0 4.5,4.5 4.5,4.5 0 0 0 4.5,-4.5 4.5,4.5 0 0 0 -4.5,-4.5 z m 0,1 a 3.5,3.5 0 0 1 3.5,3.5 3.5,3.5 0 0 1 -3.5,3.5 3.5,3.5 0 0 1 -3.5,-3.5 3.5,3.5 0 0 1 3.5,-3.5 z"
        id="path4142" />
   </g>

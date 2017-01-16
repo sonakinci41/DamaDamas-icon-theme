@@ -36,11 +36,11 @@
       <stop
          id="stop4023-0"
          offset="0"
-         style="stop-color:#b3b3b3;stop-opacity:1;" />
+         style="stop-color:#ebebeb;stop-opacity:1;" />
       <stop
          id="stop4025-2"
          offset="1"
-         style="stop-color:#1a1a1a;stop-opacity:1;" />
+         style="stop-color:#394050;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -116,22 +116,22 @@
          id="layer1-6"
          inkscape:label="Capa 1">
         <path
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
            d="m 4.3333326,1040.0291 0,-2.6667 0,-1.3334 0,-1.3333 -1.3333333,0 0,-1.3333 1.3333333,0 7.9999994,0 1.333334,0 0,1.3333 -1.333334,0 0,1.3333 0,1.3334 0,2.6667 -7.9999994,0 z m 1.3333333,-1.3334 5.3333331,0 0,-4 -5.3333331,0 0,4 z"
            id="rect3018"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+           style="fill:#394050;fill-opacity:1;stroke:none"
            d="m 19.000026,1037.3624 -5.333386,0 2.666693,-4 2.666693,4 z"
            id="rect4109-3"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+           style="fill:#394050;fill-opacity:1;stroke:none"
            d="m 13.666639,1040.0291 5.333387,0 -2.666693,4 -2.666694,-4 z"
            id="rect4109-3-8" />
         <path
-           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="m 13.666666,1042.6958 -10.6666471,0 0,1.3333 1.3332965,0 0,5.3333 1.333397,0 6.6665826,0 0,-5.3333 1.333371,0 z m -2.666667,1.3333 0,4 -5.3332866,0 0,-4 z"
            id="rect4147"
            inkscape:connector-curvature="0"

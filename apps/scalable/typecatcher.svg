@@ -109,7 +109,7 @@
      id="layer1"
      transform="translate(38.119153,-375.26716)">
     <ellipse
-       style="opacity:1;fill:#2c89a0;fill-opacity:1;stroke:none;stroke-width:2.06699990999999983;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#00bbf2;fill-opacity:1;stroke:none;stroke-width:2.06699990999999983;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path3347"
        cx="-20.137564"
        cy="393.31714"
@@ -124,11 +124,11 @@
        sodipodi:nodetypes="cccccc" />
     <g
        transform="matrix(0.7012227,0,0,0.7012227,-38.285327,374.7306)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#2c89a0;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#00bbf2;fill-opacity:1;stroke:none"
        id="text3777">
       <path
          d="m 21.407258,30.820263 -2.363344,4.292604 -2.55627,0 c 1.800641,-3.247585 3.553051,-6.237935 5.257235,-8.97106 1.72025,-2.733108 3.41639,-5.313491 5.088424,-7.741159 l 2.290997,0 c 0.241144,1.205804 0.458186,2.427668 0.651125,3.665596 0.20899,1.221876 0.409954,2.508048 0.602894,3.858521 0.192912,1.35049 0.3778,2.781357 0.554663,4.292604 0.176834,1.511257 0.361721,3.143089 0.554662,4.895498 l -2.363344,0 C 29.0439,34.389395 28.971554,33.665923 28.907258,32.94245 28.842938,32.202902 28.77059,31.495508 28.690217,30.820263 l -7.282959,0 m 7.065916,-1.881029 c -0.128629,-1.302243 -0.281362,-2.596455 -0.458199,-3.882636 -0.160783,-1.286163 -0.353709,-2.612528 -0.578778,-3.979101 -0.562711,0.81995 -1.262068,1.881042 -2.098071,3.18328 -0.83602,1.286184 -1.784573,2.845668 -2.845659,4.678457 l 5.980707,0"
-         style="font-style:italic;-inkscape-font-specification:Ubuntu Italic;fill:#2c89a0;fill-opacity:1"
+         style="font-style:italic;-inkscape-font-specification:Ubuntu Italic;fill:#00bbf2;fill-opacity:1"
          id="path3782"
          inkscape:connector-curvature="0" />
     </g>

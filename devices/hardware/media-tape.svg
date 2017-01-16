@@ -42,7 +42,7 @@
        id="linearGradient3825">
       <stop
          id="stop3827"
-         style="stop-color:#b3b3b3;stop-opacity:1"
+         style="stop-color:#ebebeb;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3829"
@@ -565,10 +565,10 @@
   <g
      id="g2418-3"
      transform="matrix(0.24501766,-0.06488443,-0.06488446,-0.24501763,69.964896,56.60953)"
-     style="fill:#1a1a1a;fill-opacity:1">
+     style="fill:#394050;fill-opacity:1">
     <path
        d="m 0,0 c -14.808,0 -26.812,12.005 -26.812,26.813 0,14.808 12.004,26.812 26.812,26.812 L 0,31.898 c -2.809,0 -5.086,-2.277 -5.086,-5.085 0,-2.81 2.277,-5.086 5.086,-5.086 L 0,0 z m 0,53.625 c 14.808,0 26.813,-12.004 26.813,-26.812 C 26.813,12.005 14.808,0 0,0 l 0,21.727 c 2.809,0 5.086,2.276 5.086,5.086 0,2.808 -2.277,5.085 -5.086,5.085 l 0,21.727 z"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path2420-5"
        inkscape:connector-curvature="0" />
   </g>
@@ -588,7 +588,7 @@
      stroke-miterlimit="2.00000000000"
      id="shape2"
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#1a1a1a;stroke-width:2.567698;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1" />
+     style="fill:none;stroke:#394050;stroke-width:2.567698;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1" />
   <g
      id="g2422-6"
      transform="matrix(0.24501766,-0.06488443,-0.06488446,-0.24501763,69.684957,55.552424)"
@@ -612,10 +612,10 @@
   <g
      id="g2418"
      transform="matrix(0.24501766,-0.06488443,-0.06488446,-0.24501763,28.356382,56.047287)"
-     style="fill:#1a1a1a;fill-opacity:1">
+     style="fill:#394050;fill-opacity:1">
     <path
        d="m 0,0 c -14.808,0 -26.812,12.005 -26.812,26.813 0,14.808 12.004,26.812 26.812,26.812 L 0,31.898 c -2.809,0 -5.086,-2.277 -5.086,-5.085 0,-2.81 2.277,-5.086 5.086,-5.086 L 0,0 z m 0,53.625 c 14.808,0 26.813,-12.004 26.813,-26.812 C 26.813,12.005 14.808,0 0,0 l 0,21.727 c 2.809,0 5.086,2.276 5.086,5.086 0,2.808 -2.277,5.085 -5.086,5.085 l 0,21.727 z"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path2420"
        inkscape:connector-curvature="0" />
   </g>

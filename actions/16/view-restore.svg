@@ -85,7 +85,7 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 4 4 L 4 12 L 12 12 L 12 4 L 4 4 z M 5 6 L 11 6 L 11 11 L 5 11 L 5 6 z "
        transform="translate(421.71429,531.79074)"
        id="rect4139" />
@@ -93,21 +93,21 @@
        inkscape:connector-curvature="0"
        id="path4123"
        d="m 435.71429,541.79074 -2,-2 2,-2 z"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4123-5"
        d="m 423.71429,541.79074 2,-2 -2,-2 z"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4123-51"
        d="m 431.71429,533.79074 -2,2 -2,-2 z"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4123-6"
        d="m 427.71429,545.79074 2,-2 2,2 z"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

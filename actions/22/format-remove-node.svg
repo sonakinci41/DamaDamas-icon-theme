@@ -101,7 +101,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#394050;fill-opacity:1;stroke:none"
        d="m 9,1039.3622 0,1 -6,0 0,1 6,0 0,2 4,0 0,-2 6,0 0,-1 -6,0 0,-1 z m 1,1 2,0 0,1 0,1 -2,0 z"
        id="rect4191"
        inkscape:connector-curvature="0"
@@ -110,11 +110,11 @@
        transform="translate(-765.33476,351.28573)"
        id="layer1-8"
        inkscape:label="Capa 1"
-       style="fill:#aa0000;fill-opacity:1">
+       style="fill:#f03916;fill-opacity:1">
       <path
          id="rect4126"
          d="m 779.32499,692.07647 -0.99023,0.99023 2.00976,2.00977 -2.00976,2.00977 0.99023,0.99023 2.00977,-2.00977 2.00976,2.00977 0.99024,-0.99023 -2.00977,-2.00977 2.00977,-2.00977 -0.99024,-0.99023 -2.00976,2.00977 -2.00977,-2.00977 z"
-         style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#f03916;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
   </g>

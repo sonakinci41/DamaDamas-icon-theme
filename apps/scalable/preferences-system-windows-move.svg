@@ -343,7 +343,7 @@
        style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
   </g>
   <rect
-     style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="rect4226"
      width="84"
      height="84"
@@ -461,7 +461,7 @@
      height="3"
      width="83.999832"
      id="rect4649-8"
-     style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#f03916;fill-opacity:1;stroke:none" />
   <rect
      style="opacity:1;fill:#dedede;fill-opacity:1;stroke:none"
      id="rect4285"
@@ -470,7 +470,7 @@
      x="6"
      y="24" />
   <path
-     style="fill:#1a1a1a;fill-opacity:1"
+     style="fill:#394050;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="shape0"
      d="m 62.400028,66.599953 0,-4.799877 -9.600007,0 0,9.599754 4.800003,0 L 47.999982,81 38.40001,71.39983 l 4.800004,0 0,-9.599754 -9.600007,0 0,4.799877 L 24,56.9998 l 9.600007,-9.599754 0,4.799877 9.600007,0 0,-9.600154 -4.800004,0 L 47.999982,33 l 9.600042,9.599769 -4.800003,0 0,9.600154 9.600007,0 0,-4.799877 L 72,56.9998 Z"

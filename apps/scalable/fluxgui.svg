@@ -129,7 +129,7 @@
        transform="matrix(11.25,0,0,11.25,-20,-10766.713)" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#2c89a0;fill-opacity:1;stroke:none"
+       style="fill:#00bbf2;fill-opacity:1;stroke:none"
        d="m 174.0625,757.0112 c -61.19867,0 -110.218871,25.25175 -148.557129,59.2155 A 225,225 0 0 0 250,1027.3622 225,225 0 0 0 453.20312,898.33932 C 340.67407,794.61545 248.39888,757.0112 174.0625,757.0112 z"
        id="rect857" />
   </g>

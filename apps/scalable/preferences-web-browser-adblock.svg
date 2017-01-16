@@ -308,7 +308,7 @@
        height="84"
        width="84"
        id="rect4226"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <rect
        style="fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4230"
@@ -415,7 +415,7 @@
        style="opacity:1;fill:#dedede;fill-opacity:1;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#f03916;fill-opacity:1;stroke:none"
        id="rect4649-8"
        width="83.999832"
        height="3"
@@ -459,11 +459,11 @@
   <g
      id="g4296"
      transform="translate(0,2.99975)"
-     style="fill:#aa0000">
+     style="fill:#f03916">
     <path
        id="path3101"
        d="m 66.125,41.375 c -12.500976,0 -22.625,10.100504 -22.625,22.53125 0,12.430746 10.124024,22.5 22.625,22.5 12.500976,0 22.65625,-10.069254 22.65625,-22.5 C 88.78125,51.475504 78.625976,41.375 66.125,41.375 Z m 0,3.84375 c 10.368108,0 18.78125,8.377639 18.78125,18.6875 0,10.309861 -8.413142,18.65625 -18.78125,18.65625 -10.368108,0 -18.75,-8.346389 -18.75,-18.65625 0,-10.309861 8.381892,-18.6875 18.75,-18.6875 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000000999999998;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f03916;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000000999999998;marker:none;enable-background:accumulate"
        inkscape:connector-curvature="0" />
     <rect
        transform="matrix(0.66690821,0.74513988,-0.74513988,0.66690821,0,0)"
@@ -472,6 +472,6 @@
        height="40.748821"
        width="4.0535479"
        id="rect3106"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000000999999998;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f03916;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000000999999998;marker:none;enable-background:accumulate" />
   </g>
 </svg>

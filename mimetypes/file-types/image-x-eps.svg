@@ -75,7 +75,7 @@
        x="125.4964"
        y="872.00653" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="fill:#5d6a7b;fill-opacity:1;stroke:none"
        id="rect2997-3-6"
        width="226.33319"
        height="90.33474"
@@ -102,7 +102,7 @@
        x="160.73686"
        y="916.18103" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="fill:#5d6a7b;fill-opacity:1;stroke:none"
        id="rect2997-3-6-7"
        width="226.33319"
        height="22.831856"
@@ -122,7 +122,7 @@
        sodipodi:end="6.2784904"
        sodipodi:open="true" />
     <path
-       style="fill:#b3b3b3;stroke:none"
+       style="fill:#ebebeb;stroke:none"
        d="m 173.39459,739.12619 44.48529,0 0.0876,-36.23752 z"
        id="path3843"
        inkscape:connector-curvature="0"

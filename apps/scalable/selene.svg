@@ -105,20 +105,20 @@
   <g
      id="g47"
      transform="matrix(3.4621698,0,0,3.4621698,-19.492211,-18.291199)"
-     style="fill:#1a1a1a">
+     style="fill:#394050">
     <g
        clip-path="url(#clipPath-790773971)"
        id="g49"
-       style="fill:#1a1a1a">
+       style="fill:#394050">
       <!-- color: #f2f2b3 -->
       <g
          id="g51"
-         style="fill:#1a1a1a">
+         style="fill:#394050">
         <path
            d="m 24,12 c -6.629,0 -12,5.371 -12,12 l 7,0 c 0,-2.762 2.238,-5 5,-5 l 10,0 c 1.109,0 2,-0.891 2,-2 l 0,-3 c 0,-1.109 -0.891,-2 -2,-2 m -5,12 c 0,2.762 -2.238,5 -5,5 l -10,0 c -1.109,0 -2,0.891 -2,2 l 0,3 c 0,1.109 0.891,2 2,2 l 10,0 c 6.629,0 12,-5.371 12,-12 m -7,0"
            id="path53"
            inkscape:connector-curvature="0"
-           style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
     </g>
   </g>

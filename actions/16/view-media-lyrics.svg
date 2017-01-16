@@ -29,13 +29,13 @@
          height="1"
          width="1"
          id="rect4162"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4160-2">
       <rect
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="rect4162-2"
          width="1"
          height="1"
@@ -136,34 +136,34 @@
        inkscape:connector-curvature="0"
        id="path4167"
        d="m 432.7143,534.79074 0,1 0,5.5 c -0.4182,-0.3148 -0.934,-0.5 -1.5,-0.5 -1.385,0 -2.5,1.115 -2.5,2.5 0,1.385 1.115,2.5 2.5,2.5 1.385,0 2.5,-1.115 2.5,-2.5 l 0,-6.5 2,0 c 0,-1.108 -0.892,-2 -2,-2 l -1,0 z"
-       style="color:#000000;text-decoration:none;text-decoration-line:none;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
+       style="color:#000000;text-decoration:none;text-decoration-line:none;display:inline;overflow:visible;visibility:visible;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
     <rect
        y="533.79071"
        x="423.71432"
        height="1"
        width="7.9999747"
        id="rect3798"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
     <rect
        y="536.79071"
        x="423.71432"
        height="1"
        width="6.9999719"
        id="rect3800"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
     <rect
        y="539.79071"
        x="423.71432"
        height="1"
        width="4.9999747"
        id="rect3804"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
     <rect
        y="542.79071"
        x="423.71432"
        height="1"
        width="3.9999726"
        id="rect3806"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
   </g>
 </svg>

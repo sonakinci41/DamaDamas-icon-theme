@@ -168,7 +168,7 @@
        inkscape:connector-curvature="0"
        id="path3016"
        d="m 345.74208,386.17487 0,-53.78805 c -0.0773,-5.02046 1.89635,-5.99851 7.0471,-5.75274 0,0 34.59526,-2.9996 34.94785,26.20984 0.35259,29.20944 -23.47729,27.48974 -23.47729,27.48974"
-       style="fill:none;stroke:#2c89a0;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#00bbf2;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        transform="matrix(0.06997696,0.84591482,-0.89733756,0.06596688,659.33077,16.126645)"
        sodipodi:open="true"
@@ -180,7 +180,7 @@
        sodipodi:cy="359.92096"
        sodipodi:cx="372.34564"
        id="path3788"
-       style="fill:none;stroke:#2c89a0;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#00bbf2;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc" />
     <path
        transform="matrix(1.0642675,0,0,1.7098071,208.42593,-314.71117)"
@@ -192,7 +192,7 @@
        sodipodi:cy="418.09546"
        sodipodi:cx="180.34818"
        id="path3790"
-       style="fill:#2c89a0;fill-opacity:1;stroke:none"
+       style="fill:#00bbf2;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
     <path
        transform="matrix(1.0642675,0,0,1.7098071,222.8113,-330.11258)"
@@ -204,7 +204,7 @@
        sodipodi:cy="418.09546"
        sodipodi:cx="180.34818"
        id="path3790-3"
-       style="fill:#2c89a0;fill-opacity:1;stroke:none"
+       style="fill:#00bbf2;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
     <path
        transform="matrix(1.0642675,0,0,1.7098071,229.0613,-350.61258)"
@@ -216,7 +216,7 @@
        sodipodi:cy="418.09546"
        sodipodi:cx="180.34818"
        id="path3790-6"
-       style="fill:#2c89a0;fill-opacity:1;stroke:none"
+       style="fill:#00bbf2;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
   </g>
 </svg>

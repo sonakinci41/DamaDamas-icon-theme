@@ -127,12 +127,12 @@
      transform="translate(-550.28572,-606.6479)">
     <g
        id="g4216"
-       style="fill:#4d4d4d">
+       style="fill:#5d6a7b">
       <path
          transform="translate(550.28572,606.6479)"
          id="path4143"
          d="M 12 4 A 8 8 0 0 0 4 12 A 8 8 0 0 0 12 20 A 8 8 0 0 0 20 12 A 8 8 0 0 0 12 4 z M 12 4.8886719 A 7.1111112 7.1111112 0 0 1 19.111328 12 A 7.1111112 7.1111112 0 0 1 12 19.111328 A 7.1111112 7.1111112 0 0 1 4.8886719 12 A 7.1111112 7.1111112 0 0 1 12 4.8886719 z "
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none" />
       <rect
          transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
          y="827.06067"
@@ -140,7 +140,7 @@
          height="15.971"
          width="1"
          id="rect4203"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

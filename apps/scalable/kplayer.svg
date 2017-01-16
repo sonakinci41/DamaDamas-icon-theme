@@ -743,7 +743,7 @@
      height="445.97311"
      width="445.97314"
      id="rect6228"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+     style="fill:#5d6a7b;fill-opacity:1;stroke:none"
      transform="matrix(0.99995886,0.00907056,-0.00907056,0.99995886,0,0)" />
   <rect
      style="fill:#cccccc;fill-opacity:1;stroke:none"
@@ -755,7 +755,7 @@
      transform="matrix(0.99995886,0.00907056,-0.00907056,0.99995886,0,0)" />
   <path
      sodipodi:type="arc"
-     style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+     style="fill:#394050;fill-opacity:1;stroke:none"
      id="path3915"
      sodipodi:cx="13.75"
      sodipodi:cy="77"
@@ -771,7 +771,7 @@
      sodipodi:cy="77"
      sodipodi:cx="13.75"
      id="path3917"
-     style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+     style="fill:#394050;fill-opacity:1;stroke:none"
      sodipodi:type="arc" />
   <rect
      y="414.96198"
@@ -779,7 +779,7 @@
      height="11.613883"
      width="155.62605"
      id="rect3919"
-     style="opacity:0.38914029;fill:#1a1a1a;fill-opacity:1;stroke:none"
+     style="opacity:0.38914029;fill:#394050;fill-opacity:1;stroke:none"
      transform="matrix(0.99995886,0.00907056,-0.00907056,0.99995886,0,0)" />
   <rect
      style="opacity:0.38914029;fill:#000000;fill-opacity:1;stroke:none"
@@ -795,11 +795,11 @@
      height="11.613883"
      width="155.62605"
      id="rect3923"
-     style="opacity:0.38914029;fill:#1a1a1a;fill-opacity:1;stroke:none"
+     style="opacity:0.38914029;fill:#394050;fill-opacity:1;stroke:none"
      transform="matrix(0.99995886,0.00907056,-0.00907056,0.99995886,0,0)" />
   <path
      sodipodi:type="star"
-     style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+     style="fill:#394050;fill-opacity:1;stroke:none"
      id="path5203"
      sodipodi:sides="3"
      sodipodi:cx="12"

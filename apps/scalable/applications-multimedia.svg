@@ -59,12 +59,12 @@
        height="114.65231"
        width="192.93913"
        id="rect2997"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+       style="fill:#5d6a7b;fill-opacity:1;stroke:none" />
     <g
        transform="translate(1.4142136,0)"
        id="g3821">
       <path
-         style="fill:#1a1a1a;stroke:none"
+         style="fill:#394050;stroke:none"
          d="m 918.92856,803.43361 196.78574,0.71428 0,-21.42857 -196.78574,0 z"
          id="path2999"
          inkscape:connector-curvature="0"
@@ -98,7 +98,7 @@
        id="g3821-5"
        transform="matrix(0.95410097,-0.29948512,-0.29948512,-0.95410097,278.0178,1804.7124)">
       <path
-         style="fill:#1a1a1a;stroke:none"
+         style="fill:#394050;stroke:none"
          d="m 918.92856,803.43361 196.78574,0.71428 0,-21.42857 -196.78574,0 z"
          id="path2999-3"
          inkscape:connector-curvature="0"
@@ -133,7 +133,7 @@
        inkscape:connector-curvature="0"
        id="path3861"
        d="m 920.24058,803.79226 30.93593,0 c 0,0 4.10898,-12.90791 4.06586,-13.08148 l -15.9099,-28.41555 -19.44544,0.0429 z"
-       style="fill:#4d4d4d;stroke:none" />
+       style="fill:#5d6a7b;stroke:none" />
     <path
        sodipodi:open="true"
        sodipodi:end="6.2784904"

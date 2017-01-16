@@ -116,19 +116,19 @@
          id="rect3157"
          transform="translate(378.85714,540.07647)"
          d="m 14,4 0,4 5,0 0,-4 -5,0 z"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+         style="fill:#394050;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <path
          id="rect3159"
          transform="translate(378.85714,540.07647)"
          d="m 14,15 0,4 5,0 0,-4 -5,0 z"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+         style="fill:#394050;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <path
          id="rect3161"
          transform="translate(378.85714,540.07647)"
          d="M 3,4 3,19 7,19 7,18 7,5 7,4 3,4 Z"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+         style="fill:#394050;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <rect
          y="545.07648"
@@ -136,7 +136,7 @@
          height="1"
          width="5"
          id="rect4076"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="fill:#394050;fill-opacity:1;stroke:none" />
       <rect
          transform="translate(378.85714,540.07647)"
          y="17"
@@ -144,7 +144,7 @@
          height="1"
          width="5"
          id="rect4078"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="fill:#394050;fill-opacity:1;stroke:none" />
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-395.85715"
@@ -152,7 +152,7 @@
          height="1"
          width="5"
          id="rect4078-5"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="fill:#394050;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

@@ -1059,7 +1059,7 @@
      style="display:inline"
      transform="translate(0,404)" />
   <circle
-     style="fill:#1a1a1a"
+     style="fill:#394050"
      sodipodi:ry="12"
      sodipodi:rx="12"
      sodipodi:cy="0"
@@ -1077,7 +1077,7 @@
      d="M 62.808575,125.20575 A 112.48804,112.48804 0 1 0 249.99999,250.00001 112.48805,112.48805 0 1 1 437.19141,374.79429 224.97609,224.97609 0 0 1 62.808575,125.20575 z" />
   <path
      sodipodi:type="arc"
-     style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+     style="fill:#394050;fill-opacity:1;stroke:none"
      id="path3150"
      sodipodi:cx="366.1814"
      sodipodi:cy="294.54077"

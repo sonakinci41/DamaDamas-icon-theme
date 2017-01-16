@@ -61,7 +61,7 @@
        y="577.36218"
        ry="55.366497" />
     <path
-       style="fill:#aa0000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#f03916;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="M 100,475 100,25 C 100,25 61.202184,19.758699 40.940323,41.934658 20.678462,64.110616 25,90.3 25,90.3 L 25,410 c 0,0 -3.104929,34.44943 20.038287,52.1379 C 68.181502,479.82637 100,475 100,475 z"
        id="path3770"
        inkscape:connector-curvature="0"
@@ -83,7 +83,7 @@
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path5838"
-       style="font-size:236.4680481px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal'"
+       style="font-size:236.4680481px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#394050;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal'"
        d="m 292.45828,972.52948 15.8255,0 0.28733,-131.74849 -28.88417,17.82031 0.0111,18.73209 12.45275,-7.47694 z" />
     <path
        inkscape:connector-curvature="0"
@@ -91,7 +91,7 @@
        d="m 388.24458,945.67058 c -8.09473,0 -19.5144,11.4005 -19.5144,19.4021 l 0,62.28952 0.22623,0 L 450,945.67058 l -61.7554,0 z"
        id="rect4218" />
     <path
-       style="fill:#aa0000;fill-opacity:1;stroke:none"
+       style="fill:#f03916;fill-opacity:1;stroke:none"
        d="m 183.94774,727.36214 c -32.92013,0 -33.94747,-0.14295 -33.94747,59.59783 l 298.97487,-0.0304 c -0.0292,-58.87365 0.53698,-59.56742 -32.373,-59.56742 l -232.6544,0 z m 16.55045,20.33581 c 5.20042,-7e-5 9.41698,4.22647 9.41652,9.44129 6e-5,5.21448 -4.21645,9.44269 -9.41652,9.44262 -5.20006,7e-5 -9.41527,-4.22814 -9.4152,-9.44262 -5.7e-4,-5.21482 4.21478,-9.44136 9.4152,-9.44129 z m 199.43877,0.0833 c 4.95848,0.003 8.97735,4.03271 8.98005,9.00493 0.003,4.97613 -4.01768,9.01273 -8.98005,9.01551 -4.96628,0.003 -8.9933,-4.03548 -8.9906,-9.01551 0.003,-4.97613 4.02822,-9.00757 8.9906,-9.00493 z"
        id="rect4178-4"
        inkscape:connector-curvature="0" />

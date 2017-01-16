@@ -61,7 +61,7 @@
        y="577.36218"
        ry="55.366497" />
     <path
-       style="fill:#1a1a1a;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#394050;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="M 100,475 100,25 C 100,25 61.202184,19.758699 40.940323,41.934658 20.678462,64.110616 25,90.3 25,90.3 L 25,410 c 0,0 -3.104929,34.44943 20.038287,52.1379 C 68.181502,479.82637 100,475 100,475 z"
        id="path3770"
        inkscape:connector-curvature="0"
@@ -69,7 +69,7 @@
        sodipodi:nodetypes="cczcczc" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffdd55;fill-opacity:1;stroke:#1a1a1a;stroke-width:24.4549427;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#faec6d;fill-opacity:1;stroke:#394050;stroke-width:24.4549427;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3766"
        sodipodi:cx="-379.68039"
        sodipodi:cy="218.11607"
@@ -81,14 +81,14 @@
        transform="matrix(0.5771546,0,0,0.72228706,519.13428,719.81976)"
        sodipodi:open="true" />
     <path
-       style="fill:#1a1a1a;stroke:none"
+       style="fill:#394050;stroke:none"
        d="m 258.6829,856.61273 66.32291,-0.19114 0.48758,88.53131 c 0,0 -0.18312,2.2959 1.52511,4.1629 1.70823,1.867 3.40791,1.9189 3.40791,1.9189 l 14.79903,0.068 0.13517,10.7445 -84.26663,-0.2027 -0.13517,-10.8797 17.23175,0.068 c 0,0 2.39267,-0.2914 3.76329,-2.2509 1.37061,-1.9596 1.03458,-4.10119 1.03458,-4.10119 l -0.0676,-71.56242 c 0,0 0.2328,-1.78697 -2.21598,-3.87746 -2.44879,-2.09049 -4.7443,-1.86645 -4.7443,-1.86645 l -17.16416,-0.20272 z"
        id="path3779"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccczcccccczcczccc" />
     <path
        sodipodi:type="arc"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        id="path2997-3"
        sodipodi:cx="611.39484"
        sodipodi:cy="263.50247"

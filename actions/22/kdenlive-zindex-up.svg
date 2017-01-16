@@ -192,7 +192,7 @@
          sodipodi:nodetypes="cccccccccccccc"
          id="rect4071-0-1-0"
          d="m 16,1049.3622 0,0 0,-7.0937 2.28125,2.2187 L 19,1043.7685 15.71875,1040.581 15.5,1040.3622 15.28125,1040.581 12,1043.7685 l 0.71875,0.7187 2.28125,-2.2187 0,7.0937 0,0 z"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+         style="fill:#394050;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <rect
          transform="scale(-1,-1)"
@@ -201,7 +201,7 @@
          height="1"
          width="8"
          id="rect4743-7"
-         style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          transform="scale(-1,-1)"
          y="-1049.3622"
@@ -209,7 +209,7 @@
          height="1"
          width="10"
          id="rect4745-7"
-         style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          transform="scale(-1,-1)"
          y="-1044.3622"
@@ -217,7 +217,7 @@
          height="1"
          width="8"
          id="rect4747-0"
-         style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          transform="scale(-1,-1)"
          y="-1039.3622"
@@ -225,7 +225,7 @@
          height="1"
          width="16"
          id="rect4749-9"
-         style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
 </svg>

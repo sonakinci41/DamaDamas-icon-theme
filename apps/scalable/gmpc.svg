@@ -273,12 +273,12 @@
        transform="translate(3.4847544,-66.291525)"><g
          id="g352"
          clip-path="url(#clipPath354)"><path
-           style="fill:#2c89a0;fill-opacity:1;stroke:none"
+           style="fill:#00bbf2;fill-opacity:1;stroke:none"
            d="m 240.45091,96.079594 c -32.54524,-17.45854 -82.07758,-11.36787 -95.28439,16.716536 -13.20682,28.08444 8.2489,58.64972 43.41235,78.32303 35.16346,19.67337 69.42442,5.25978 69.42442,5.25978 l 2.5075,249.91258 25.31444,-8.15145 16.54856,-39.59834 c 0,0 61.22655,-32.66856 75.35501,-107.56556 14.12847,-74.89701 -74.46848,-133.57045 -74.46848,-133.57045 0,0 74.63674,78.39837 56.24826,136.07795 -18.38848,57.67952 -75.16091,63.6867 -75.16091,63.6867 L 285.973,151.64329 c 0,0 -12.97682,-38.10515 -45.52209,-55.563696 z"
            id="path3834"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="zzzcccczczccz" /><rect
-           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+           style="fill:#394050;fill-opacity:1;stroke:none"
            id="rect3816"
            width="27.097208"
            height="119.79816"
@@ -286,7 +286,7 @@
            y="-404.68832"
            transform="scale(1,-1)"
            ry="0" /><rect
-           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+           style="fill:#394050;fill-opacity:1;stroke:none"
            id="rect3816-3"
            width="27.097208"
            height="119.79816"
@@ -294,7 +294,7 @@
            y="-404.68832"
            ry="0"
            transform="scale(1,-1)" /><rect
-           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+           style="fill:#394050;fill-opacity:1;stroke:none"
            id="rect3816-6"
            width="27.097208"
            height="119.79816"
@@ -302,7 +302,7 @@
            y="65.510109"
            ry="0"
            transform="matrix(0.00213084,0.99999773,0.99999773,-0.00213084,0,0)" /><rect
-           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+           style="fill:#394050;fill-opacity:1;stroke:none"
            id="rect3816-6-7"
            width="27.097208"
            height="119.79816"

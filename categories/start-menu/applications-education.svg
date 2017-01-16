@@ -62,7 +62,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cczccc" />
   <path
-     style="fill:#aa0000;stroke:none"
+     style="fill:#f03916;stroke:none"
      d="m 212.36328,310.65574 78.38848,0 0,134.38025 -77.9016,0 z"
      id="path3778"
      inkscape:connector-curvature="0"
@@ -80,6 +80,6 @@
        id="path7"
        d="m 6.952,17.189 v 5.014 c 0,0 4.808,-2.003 9.071,-2.003 4.263,0 9.072,2.003 9.072,2.003 v -5.084 c 0,0 -4.587,-2.426 -9.143,-2.426 -4.554,-0.002 -9,2.496 -9,2.496 z"
        inkscape:connector-curvature="0"
-       style="fill:#1a1a1a" />
+       style="fill:#394050" />
   </g>
 </svg>

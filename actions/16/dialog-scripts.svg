@@ -92,26 +92,26 @@
          id="layer1-6"
          inkscape:label="Capa 1">
         <rect
-           style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+           style="fill:#394050;fill-opacity:1;stroke:none"
            id="rect4035"
            width="0"
            height="14.66668"
            x="-22.333332"
            y="1034.6957" />
         <path
-           style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 6.6249992,1036.029 -0.9583333,0.9167 3.4999999,3.75 -3.4583332,3.75 0.9166666,0.9167 3.9583328,-4.2083 0.416667,-0.4584 -0.416667,-0.4583 -3.9583328,-4.2084 z"
            id="rect3918"
            inkscape:connector-curvature="0" />
         <rect
-           style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect3794"
            width="5.3333335"
            height="1.3333367"
            x="10.999999"
            y="1045.3624" />
         <path
-           style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 3 3 L 13 3 L 13 13 L 3 13 L 3 3 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect3012" />

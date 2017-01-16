@@ -30,13 +30,13 @@
          height="1"
          width="1"
          id="rect4162"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4160-51">
       <rect
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="rect4162-49"
          width="1"
          height="1"
@@ -52,13 +52,13 @@
          height="1"
          width="1"
          id="rect4162-2"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4160-59">
       <rect
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="rect4162-4"
          width="1"
          height="1"
@@ -74,7 +74,7 @@
          height="1"
          width="1"
          id="rect4162-7"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -162,7 +162,7 @@
        ry="1" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1"
        d="m 428.71429,533.79077 c -1.65685,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 1.65685,0 3,-1.34315 3,-3 0,-1.65685 -1.34315,-3 -3,-3 z m 0,1 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 z m 0,6 c -2.76142,0 -5,2.01472 -5,4.5 7.4e-4,0.16709 0.0118,0.33402 0.0332,0.5 h 0.9668 0.0449 7.91016 0.0449 0.96289 c 0.0227,-0.16592 0.0351,-0.33284 0.0371,-0.5 0,-2.48528 -2.23858,-4.5 -5,-4.5 z m 0,1 c 1.98692,0.002 3.67124,1.27928 3.95508,3 h -7.91016 c 0.28384,-1.72072 1.96816,-2.99831 3.95508,-3 z"
        id="path16"
        sodipodi:nodetypes="ssssssssssccccccccccccccc" />

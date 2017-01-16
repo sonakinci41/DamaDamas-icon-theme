@@ -60,7 +60,7 @@
      stroke-miterlimit="2.00000000000"
      id="shape0" />
   <rect
-     style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     style="fill:#ebebeb;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
      y="362.16519"
      x="190.0303"
      height="114.01598"
@@ -68,7 +68,7 @@
      stroke-miterlimit="2.00000000000"
      id="shape1" />
   <rect
-     style="fill:#2c89a0;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     style="fill:#00bbf2;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
      y="31.000006"
      x="85.472466"
      ry="42.452766"
@@ -128,7 +128,7 @@
      stroke-miterlimit="2.01260191180"
      id="path5436" />
   <path
-     style="fill:#447821;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     style="fill:#45d03f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
      inkscape:connector-curvature="0"
      d="M 426.52754,373.78786 C 426.41743,314.70727 378.73825,266.8958 320.01458,266.97937 c -58.72334,0.0836 -106.26843,48.03054 -106.21304,107.11102 0.0553,59.08027 47.69013,106.93628 106.41324,106.90959 58.72368,-0.0289 106.31276,-47.93053 106.31276,-107.01125"
      stroke-miterlimit="2.00000000000"

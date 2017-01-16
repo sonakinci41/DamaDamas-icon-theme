@@ -93,12 +93,12 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        d="M 6.5 2 C 4.0070042 2 2 4.0070042 2 6.5 C 2 8.9929958 4.0070042 11 6.5 11 C 8.9929958 11 11 8.9929958 11 6.5 C 11 4.0070042 8.9929958 2 6.5 2 z M 6.5 3 C 8.438997 3 10 4.561003 10 6.5 C 10 8.438997 8.438997 10 6.5 10 C 4.561003 10 3 8.438997 3 6.5 C 3 4.561003 4.561003 3 6.5 3 z "
        transform="translate(0,1036.3622)"
        id="rect3294" />
     <rect
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        id="rect3312"
        width="1"
        height="6.0710001"

@@ -36,11 +36,11 @@
       <stop
          id="stop4023-0"
          offset="0"
-         style="stop-color:#b3b3b3;stop-opacity:1;" />
+         style="stop-color:#ebebeb;stop-opacity:1;" />
       <stop
          id="stop4025-2"
          offset="1"
-         style="stop-color:#1a1a1a;stop-opacity:1;" />
+         style="stop-color:#394050;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -122,25 +122,25 @@
            d="m 8.3333327,1040.0291 2.6666663,4 2.666667,-4 z"
            style="fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
-           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="M 2 11 L 2 14 L 5 14 L 5 13 L 7 13 L 7 12 L 5 12 L 5 11 L 2 11 z M 11 11 L 11 12 L 9 12 L 9 13 L 11 13 L 11 14 L 14 14 L 14 11 L 11 11 z M 3 12 L 4 12 L 4 13 L 3 13 L 3 12 z M 12 12 L 13 12 L 13 13 L 12 13 L 12 12 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect4482" />
         <path
-           style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 8.3333327,1033.3624 0,4 5.3333333,0 0,-4 z m 1.3333333,1.3333 2.666667,0 0,1.3334 -2.666667,-10e-5 z"
            id="rect4146"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccc" />
         <rect
-           style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4154"
            width="5.3333273"
            height="1.3333367"
            x="3.000005"
            y="1034.6957" />
         <rect
-           style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4156"
            width="6.6666665"
            height="1.3333367"

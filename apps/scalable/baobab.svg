@@ -62,14 +62,14 @@
      id="layer1"
      transform="translate(0,-610.5196)">
     <circle
-       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.83333336999999996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501000000000"
+       style="opacity:1;fill:#f03916;fill-opacity:1;stroke:none;stroke-width:0.83333336999999996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501000000000"
        id="path4241"
        cx="257.63739"
        cy="866.85699"
        r="141.66666"
        d="m 399.30405,866.85699 c 0,78.24034 -63.42633,141.66671 -141.66666,141.66671 -78.24033,0 -141.66666,-63.42637 -141.66666,-141.66671 0,-78.24033 63.42633,-141.66665 141.66666,-141.66665 78.24033,0 141.66666,63.42632 141.66666,141.66665 z" />
     <path
-       style="opacity:1;fill:#447821;fill-opacity:1;stroke:none;stroke-width:0.83333336999999996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501000000000"
+       style="opacity:1;fill:#45d03f;fill-opacity:1;stroke:none;stroke-width:0.83333336999999996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501000000000"
        d="m 257.63738,641.85652 0,233.33334 157.79622,151.95304 a 225,225 0 0 0 67.20378,-160.28638 225,225 0 0 0 -225,-225 z"
        id="path4231"
        inkscape:connector-curvature="0" />
@@ -84,7 +84,7 @@
        id="circle4243"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#2c89a0;fill-opacity:1;stroke:none;stroke-width:0.83333336999999996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501000000000"
+       style="opacity:1;fill:#00bbf2;fill-opacity:1;stroke:none;stroke-width:0.83333336999999996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501000000000"
        d="m 257.63738,875.18986 0,191.66664 a 200,200 0 0 0 139.81119,-57.0312 L 257.63738,875.18986 Z"
        id="circle4250"
        inkscape:connector-curvature="0" />

@@ -93,7 +93,7 @@
      id="layer1"
      transform="translate(0,-924.3622)">
     <rect
-       style="fill:#2c89a0;fill-opacity:1;stroke:none"
+       style="fill:#00bbf2;fill-opacity:1;stroke:none"
        id="rect907"
        width="119.07301"
        height="90.195091"
@@ -105,7 +105,7 @@
        height="10.611191"
        width="119.07298"
        id="rect920"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+       style="fill:#394050;fill-opacity:1;stroke:none" />
     <rect
        style="fill:none;stroke:none"
        id="rect914"
@@ -266,7 +266,7 @@
     </g>
     <path
        sodipodi:type="arc"
-       style="fill:#2c89a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#00bbf2;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3790"
        sodipodi:cx="57.849106"
        sodipodi:cy="72.738396"

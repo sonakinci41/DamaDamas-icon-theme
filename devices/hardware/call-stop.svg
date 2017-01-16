@@ -213,7 +213,7 @@
      y="111.25477" />
   <path
      sodipodi:type="arc"
-     style="fill:none;stroke:#aa0000;stroke-width:34.44393539;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:none;stroke:#f03916;stroke-width:34.44393539;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="path2982"
      sodipodi:cx="295.69049"
      sodipodi:cy="265.78302"
@@ -225,7 +225,7 @@
      sodipodi:open="true"
      transform="matrix(0.87356953,0,0,0.86120768,-8.306203,33.105623)" />
   <path
-     style="fill:none;stroke:#aa0000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#f03916;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 119.65685,107.00758 375.07821,419.95627"
      id="path3752"
      inkscape:connector-curvature="0" />

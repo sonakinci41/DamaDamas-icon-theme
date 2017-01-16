@@ -175,7 +175,7 @@
        height="127"
        width="127"
        id="rect3284"
-       style="fill:#2c89a0;fill-opacity:1;stroke:none" />
+       style="fill:#00bbf2;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#f8f8f8;fill-opacity:1;stroke:none"
        id="rect3297"
@@ -185,7 +185,7 @@
        y="178.81967" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        d="m 34.885282,190.77432 0,70.55217 15.678262,0 15.678263,0 0,-15.67826 -15.678263,0 0,-39.19565 15.678263,0 0,-15.67826 -15.678263,0 -15.678262,0 z m 39.195656,0 0,15.67826 15.678263,0 0,39.19565 -15.678263,0 0,15.67826 15.678263,0 15.678259,0 0,-70.55217 -15.678259,0 -15.678263,0 z"
        id="rect3332" />
   </g>

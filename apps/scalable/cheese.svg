@@ -98,13 +98,13 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccczcczcczcczc" />
   <path
-     style="fill:#1a1a1a;stroke:none"
+     style="fill:#394050;stroke:none"
      d="m 47.08266,168.17265 c 0,0 33.651982,-10.57061 64.29167,-12.38209 30.63969,-1.81149 60.95801,6.66727 60.95801,6.66727 0,0 -30.99924,-25.41242 -60.95801,-24.76419 -29.958769,0.64822 -64.29167,30.47901 -64.29167,30.47901 z"
      id="path3012"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="czczc" />
   <path
-     style="fill:#1a1a1a;stroke:none"
+     style="fill:#394050;stroke:none"
      d="m 260.74276,153.16717 c 0,0 32.03269,-14.76829 62.19254,-20.46527 30.15985,-5.69694 61.31084,-1.14645 61.31084,-1.14645 0,0 -33.98191,-21.25973 -63.61445,-16.80324 -29.63255,4.4565 -59.88893,38.41496 -59.88893,38.41496 z"
      id="path3012-3"
      inkscape:connector-curvature="0"
@@ -132,7 +132,7 @@
        sodipodi:ry="41.036854" />
     <circle
        transform="matrix(4.4376629,0,0,4.4376629,111.06724,-543.58829)"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        id="circle4714"
        cx="67.73333"
        cy="229.43744"
@@ -148,7 +148,7 @@
        cy="229.43744"
        cx="67.73333"
        id="circle4726"
-       style="fill:#2c89a0;fill-opacity:1;stroke:none"
+       style="fill:#00bbf2;fill-opacity:1;stroke:none"
        d="m 106.99621,229.43744 c 0,21.68429 -17.578589,39.26288 -39.26288,39.26288 -21.684291,0 -39.262882,-17.57859 -39.262882,-39.26288 0,-21.68429 17.578591,-39.26288 39.262882,-39.26288 21.684291,0 39.26288,17.57859 39.26288,39.26288 z"
        sodipodi:cx="67.73333"
        sodipodi:cy="229.43744"

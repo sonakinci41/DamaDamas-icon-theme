@@ -96,7 +96,7 @@
      transform="translate(0,-1030.3622)">
     <circle
        id="path2986"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        cx="5.5"
        cy="1041.8622"
        r="2.5" />
@@ -105,9 +105,9 @@
        inkscape:connector-curvature="0"
        id="rect3756"
        d="m 5,1033.3622 1,0 0,16 -1,0 z"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+       style="fill:#394050;fill-opacity:1;stroke:none" />
     <circle
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        id="path3758"
        cx="11"
        cy="1035.8622"
@@ -117,12 +117,12 @@
        inkscape:connector-curvature="0"
        id="rect3760"
        d="m 10.5,1034.8622 1,0 0,14.5 -1,0 z"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+       style="fill:#394050;fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="ccsccccscccsssss"
        id="path3762"
        d="m 16,1033.3622 0,9.5625 c -1.139208,0.2331 -2,1.2294 -2,2.4375 0,1.2081 0.860792,2.2044 2,2.4375 l 0,1.5625 1,0 0,-1.5625 c 1.139208,-0.2331 2,-1.2294 2,-2.4375 0,-1.2081 -0.860792,-2.2044 -2,-2.4375 l 0,-9.5625 z m 0.5,10.5 c 0.828427,0 1.5,0.6716 1.5,1.5 0,0.8284 -0.671573,1.5 -1.5,1.5 -0.828427,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.671573,-1.5 1.5,-1.5 z"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

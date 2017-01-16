@@ -62,7 +62,7 @@
      id="layer1"
      transform="translate(0,-610.5196)">
     <rect
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:8.10344790999999987"
+       style="fill:#394050;fill-opacity:1;stroke:none;stroke-width:8.10344790999999987"
        id="rect4148"
        width="437.58621"
        height="437.58621"
@@ -85,12 +85,12 @@
        id="path4289"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#2c89a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.10344790999999987px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#00bbf2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.10344790999999987px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 385.65517,866.51974 -56.72414,40.51726 -24.31034,24.31034 -32.41379,8.10345 -32.41379,-8.10345 -32.4138,0 -56.72413,72.93106 -16.2069,-8.10348 -32.41379,40.51728 -16.206911,0 -8.10345,8.1035 -16.20689,-8.1035 -24.310341,18.2327 0,30.388 437.586212,0 0,-210.68971 -8.10345,0 -16.2069,8.10345 -32.41379,8.10345 -32.4138,-24.31035 z"
        id="path4284"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:8.10344790999999987;stroke-opacity:1"
+       style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-width:8.10344790999999987;stroke-opacity:1"
        d="m 21.000001,647.72665 0,421.37925 0,16.207 16.206896,0 437.586213,0 16.20689,0 0,-16.207 0,-421.37925 -16.20689,0 -437.586213,0 -16.206896,0 z m 16.206896,32.41379 437.586213,0 0,388.96546 -437.586213,0 0,-388.96546 z"
        id="rect4151"
        inkscape:connector-curvature="0" />
@@ -102,7 +102,7 @@
        r="8.1034479"
        d="m 474.79284,663.9342 c 0,4.47541 -3.62804,8.10345 -8.10345,8.10345 -4.47541,0 -8.10345,-3.62804 -8.10345,-8.10345 0,-4.47541 3.62804,-8.10344 8.10345,-8.10344 4.47541,0 8.10345,3.62803 8.10345,8.10344 z" />
     <rect
-       style="opacity:1;fill:#2c89a0;fill-opacity:1;stroke:none;stroke-width:8.10344790999999987;stroke-opacity:1"
+       style="opacity:1;fill:#00bbf2;fill-opacity:1;stroke:none;stroke-width:8.10344790999999987;stroke-opacity:1"
        id="rect4153"
        width="437.58621"
        height="8.2563438"

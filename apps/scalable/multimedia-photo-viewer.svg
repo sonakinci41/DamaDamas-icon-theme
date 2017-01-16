@@ -88,7 +88,7 @@
        height="287.5199"
        width="346.08871"
        id="rect2997"
-       style="fill:#ff7f2a;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        sodipodi:open="true"
        sodipodi:end="6.2784904"
@@ -100,13 +100,13 @@
        sodipodi:cy="126.28571"
        sodipodi:cx="942.85712"
        id="path3767"
-       style="fill:#ffe680;fill-opacity:1;stroke:none"
+       style="fill:#faec6d;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
     <path
        sodipodi:nodetypes="cccczzc"
        inkscape:connector-curvature="0"
        id="path3787"
        d="m 115.22312,364.259 47.79051,95.01937 299.30696,-152.72892 -40.72958,-78.01912 c 0,0 -34.58295,36.64635 -73.53231,50.59127 -38.94934,13.94493 -118.57958,-4.55609 -158.39379,13.49272 -39.81417,18.04883 -74.44179,71.64468 -74.44179,71.64468 z"
-       style="fill:#2b1100;stroke:#000000;stroke-width:0.46588865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#803300;stroke:#000000;stroke-width:0.46588865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

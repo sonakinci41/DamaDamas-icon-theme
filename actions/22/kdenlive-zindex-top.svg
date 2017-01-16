@@ -195,7 +195,7 @@
          height="0.99997038"
          width="16"
          id="rect3767"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="fill:#394050;fill-opacity:1;stroke:none" />
       <rect
          transform="scale(-1,-1)"
          y="-1039.3622"
@@ -203,7 +203,7 @@
          height="1"
          width="8.0000038"
          id="rect3769"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="fill:#394050;fill-opacity:1;stroke:none" />
       <rect
          transform="scale(-1,-1)"
          y="-1044.3622"
@@ -211,7 +211,7 @@
          height="1"
          width="8"
          id="rect3771"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="fill:#394050;fill-opacity:1;stroke:none" />
       <rect
          transform="scale(-1,-1)"
          y="-1049.3622"
@@ -219,11 +219,11 @@
          height="1.00003"
          width="8"
          id="rect3773"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="fill:#394050;fill-opacity:1;stroke:none" />
       <path
          id="rect4071"
          d="m 16.00001,1049.3622 0,-3.9385 0,-8.1538 2.28125,2.2461 0.71875,-0.7077 -3.28125,-3.2307 -0.21875,-0.2154 -0.21875,0.2154 -3.28125,3.2307 0.71875,0.7077 2.28125,-2.2461 0,8.1538 0,3.9385 1,0 z"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+         style="fill:#394050;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
   </g>

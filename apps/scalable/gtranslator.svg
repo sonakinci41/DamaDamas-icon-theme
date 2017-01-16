@@ -46,7 +46,7 @@
     .fil0 {fill:red}
     .fil1 {fill:black;fill-rule:nonzero}
    </style></defs><rect
-     style="fill:#2c89a0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="fill:#00bbf2;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="rect3348-7"
      width="29232.467"
      height="29232.473"
@@ -65,7 +65,7 @@
      x="2896.6226"
      y="2436.5493"
      ry="3778.7598" /><path
-     style="fill:#1a1a1a;fill-rule:nonzero"
+     style="fill:#394050;fill-rule:nonzero"
      inkscape:connector-curvature="0"
      id="path13"
      d="m 18530.391,27528.485 0,-1280.952 2676.061,-451.778 -1543.88,-4259.731 -7328.056,0 -1643.466,4259.731 2661.186,451.778 0,1280.952 -7039.9233,0 0,-1280.952 2095.25,-451.778 7854.2163,-20072.3011 2805.099,0 7392.419,20072.3011 2254.036,451.778 0,1280.952 -10182.638,0 z m -2328.424,-15663.81 -114.161,0 -2983.927,7705.141 5878.289,0 -2780.201,-7705.141 z"

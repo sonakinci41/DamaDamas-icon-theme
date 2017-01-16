@@ -36,11 +36,11 @@
       <stop
          id="stop4023-0"
          offset="0"
-         style="stop-color:#b3b3b3;stop-opacity:1;" />
+         style="stop-color:#ebebeb;stop-opacity:1;" />
       <stop
          id="stop4025-2"
          offset="1"
-         style="stop-color:#1a1a1a;stop-opacity:1;" />
+         style="stop-color:#394050;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -115,7 +115,7 @@
          id="layer1-6"
          inkscape:label="Capa 1">
         <path
-           style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="M 8 2 C 6.3431375 2 5 3.3431372 5 5 L 5 8 L 3 8 L 3 14 L 13 14 L 13 8 L 11 8 L 11 5 C 11 3.3431372 9.6568625 2 8 2 z M 8 3 C 9.1045695 3 10 3.8954305 10 5 L 10 8 L 6 8 L 6 5 C 6 3.8954305 6.8954305 3 8 3 z M 4 9 L 12 9 L 12 13 L 4 13 L 4 9 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect3044" />

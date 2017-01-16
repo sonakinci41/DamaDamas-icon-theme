@@ -109,7 +109,7 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        d="M 10 6 A 6 6 0 0 0 4 12 A 6 6 0 0 0 10 18 L 14 18 A 6 6 0 0 0 20 12 A 6 6 0 0 0 14 6 L 10 6 z M 10 7 L 14 7 A 5 5 0 0 1 19 12 A 5 5 0 0 1 14 17 L 10 17 A 5 5 0 0 1 5 12 A 5 5 0 0 1 10 7 z "
        transform="translate(-1,1029.3622)"
        id="path3499" />

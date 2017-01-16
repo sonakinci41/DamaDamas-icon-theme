@@ -86,7 +86,7 @@
        height="162.53043"
        width="133.72212"
        id="rect2998"
-       style="fill:#2c89a0;fill-opacity:1;stroke:none" />
+       style="fill:#00bbf2;fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="czcczcc"
        inkscape:connector-curvature="0"
@@ -111,6 +111,6 @@
        inkscape:connector-curvature="0"
        id="path3855"
        d="m 169.73249,258.74491 0,-28.59331 28.59332,0 -0.10749,28.59331 -14.18917,-7.30957 z"
-       style="fill:#aa0000;stroke:none" />
+       style="fill:#f03916;stroke:none" />
   </g>
 </svg>

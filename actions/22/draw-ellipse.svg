@@ -110,7 +110,7 @@
      id="layer1"
      transform="translate(-550.28572,-606.6479)">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#394050;fill-opacity:1;stroke:none"
        d="M 9.5 6.5 C 6.453 6.5 4 8.953 4 12 C 4 15.047 6.453 17.5 9.5 17.5 L 14.5 17.5 C 17.547 17.5 20 15.047 20 12 C 20 8.953 17.547 6.5 14.5 6.5 L 9.5 6.5 z M 9.5 7.5 L 14.5 7.5 C 16.993 7.5 19 9.507 19 12 C 19 14.493 16.993 16.5 14.5 16.5 L 9.5 16.5 C 7.007 16.5 5 14.493 5 12 C 5 9.507 7.007 7.5 9.5 7.5 z "
        transform="translate(550.28572,606.6479)"
        id="rect4112" />

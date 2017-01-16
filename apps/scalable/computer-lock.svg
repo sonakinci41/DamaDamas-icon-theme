@@ -52,7 +52,7 @@
      inkscape:current-layer="svg2"
      inkscape:document-units="px" />
   <circle
-     style="opacity:1;fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.25982856999999981;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#f03916;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.25982856999999981;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path4139"
      cx="256"
      cy="256"
@@ -84,7 +84,7 @@
      sodipodi:open="true" />
   <path
      sodipodi:type="arc"
-     style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+     style="fill:#394050;fill-opacity:1;stroke:none"
      id="path3771"
      sodipodi:cx="743.57141"
      sodipodi:cy="319.67856"
@@ -96,7 +96,7 @@
      sodipodi:end="6.2784904"
      sodipodi:open="true" />
   <path
-     style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:6.58880424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#394050;stroke:#394050;stroke-width:6.58880424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m 235.35025,326.65109 0.23528,34.3559"
      id="path3773"
      inkscape:connector-curvature="0" />
@@ -126,7 +126,7 @@
        sodipodi:cy="534.62744"
        sodipodi:cx="677.40833"
        id="path3774"
-       style="fill:#aa0000;fill-opacity:1;stroke:none"
+       style="fill:#f03916;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
   </g>
 </svg>

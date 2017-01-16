@@ -65,31 +65,31 @@
      id="path1"
      d="M 457.82451,33.76282 C 453.1799,29.11821 447.55874,26.784 440.98483,26.784 l -321.16858,0 c -6.57391,0 -12.19507,2.33421 -16.83968,6.97882 -4.5017,4.50169 -6.83591,9.93231 -6.97882,16.24421 l 0,-0.0119 0,345.16572 q 0.21818,9.45976 6.97882,16.2204 c 4.64461,4.6446 10.26577,6.97882 16.83968,6.97882 l 321.16858,0 c 6.57391,0 12.19507,-2.33422 16.83968,-6.97882 4.50169,-4.5017 6.8359,-9.9085 6.97882,-16.2204 l 0,-345.16572 0,0.0119 c -0.14292,-6.3119 -2.47713,-11.74252 -6.97882,-16.24421 z"
      inkscape:connector-curvature="0"
-     style="fill:#b3b3b3;fill-opacity:1" />
+     style="fill:#ebebeb;fill-opacity:1" />
   <path
      id="path2"
      d="m 102.97657,411.38124 q -6.76064,-6.76064 -6.97882,-16.2204 l 0,56.54511 c 0,6.5739 2.33421,12.19507 6.97882,16.83968 4.64461,4.6446 10.26577,6.9788 16.83968,6.9788 l 321.16858,0 c 6.57391,0 12.19507,-2.3342 16.83968,-6.9788 4.6446,-4.64461 6.97882,-10.26578 6.97882,-16.83968 l 0,-56.54511 c -0.14292,6.3119 -2.47713,11.7187 -6.97882,16.2204 -4.64461,4.6446 -10.26577,6.97882 -16.83968,6.97882 l -321.16858,0 c -6.57391,0 -12.19507,-2.33422 -16.83968,-6.97882 z"
      inkscape:connector-curvature="0"
-     style="fill:#4d4d4d;fill-opacity:0.98823529" />
+     style="fill:#5d6a7b;fill-opacity:0.98823529" />
   <g
      transform="matrix(0.4763699,0,0,0.4763699,30.27445,-1.0388302)"
      id="Calque.__204"
-     style="fill:#1a1a1a">
+     style="fill:#394050">
     <g
        id="Symbole.__2026_1"
        overflow="visible"
-       style="fill:#1a1a1a;overflow:visible">
+       style="fill:#394050;overflow:visible">
       <g
          id="Calque.__208"
-         style="fill:#1a1a1a">
+         style="fill:#394050">
         <g
            id="shape17"
-           style="fill:#1a1a1a">
+           style="fill:#394050">
           <path
              inkscape:connector-curvature="0"
              id="path11"
              d="m 518,918 q 0,-8.3 -5.85,-14.15 C 508.25,899.95 503.55,898 498,898 l -302,0 c -5.55,0 -10.25,1.95 -14.15,5.85 -3.9,3.9 -5.85,8.6 -5.85,14.15 l 0,8.2 c 0,5.55 1.95,10.25 5.85,14.15 3.9,3.9 8.6,5.85 14.15,5.85 l 302,0 c 5.55,0 10.25,-1.95 14.15,-5.85 3.9,-3.9 5.85,-8.6 5.85,-14.15 l 0,-8.2 z"
-             style="fill:#1a1a1a;fill-opacity:1" />
+             style="fill:#394050;fill-opacity:1" />
         </g>
       </g>
     </g>
@@ -130,7 +130,7 @@
        sodipodi:cy="184.75023"
        sodipodi:cx="211.70058"
        id="path2996"
-       style="fill:#2c89a0;fill-opacity:0.58823529;stroke:#4b4b4b;stroke-width:25.83436966;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#00bbf2;fill-opacity:0.58823529;stroke:#4b4b4b;stroke-width:25.83436966;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc" />
     <path
        inkscape:connector-curvature="0"

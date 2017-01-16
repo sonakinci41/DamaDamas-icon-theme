@@ -84,14 +84,14 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <rect
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        id="rect4035"
        width="0"
        height="10.999983"
        x="404.71429"
        y="534.79071" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f03916;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 2.65625 2 L 2 2.65625 L 7.34375 8 L 2 13.3125 L 2.65625 14 L 8.03125 8.65625 L 13.34375 13.96875 L 14 13.34375 L 8.65625 8 L 14 2.6875 L 13.34375 2 L 8 7.34375 L 2.65625 2 z "
        transform="translate(421.71429,531.79074)"
        id="path4180" />

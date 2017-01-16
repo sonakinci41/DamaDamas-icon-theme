@@ -110,7 +110,7 @@
      id="layer1"
      transform="translate(0,-540.3622)">
     <circle
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#394050;fill-opacity:1;stroke:none"
        id="path4139"
        cx="24"
        cy="1028.3622"
@@ -135,7 +135,7 @@
        d="m 39,1028.3622 c 0,8.2843 -6.715729,15 -15,15 -8.284271,0 -15,-6.7157 -15,-15 0,-8.2843 6.715729,-15 15,-15 8.284271,0 15,6.7157 15,15 z" />
     <text
        xml:space="preserve"
-       style="font-size:436.0774231px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:436.0774231px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#394050;fill-opacity:1;stroke:none;font-family:Sans"
        x="110.70589"
        y="988.95782"
        id="text2997"
@@ -145,6 +145,6 @@
          id="tspan2999"
          x="110.70589"
          y="988.95782"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue">a</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#394050;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue">a</tspan></text>
   </g>
 </svg>

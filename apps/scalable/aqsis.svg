@@ -50,24 +50,24 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <path
-     style="fill:#2c89a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#00bbf2;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 314.33576,455.40555 c -45.78733,-15.60439 -72.0088,-60.01738 -62.45457,-105.78327 10.04938,-48.13762 56.56996,-80.4725 104.41005,-72.57187 48.98976,8.0905 84.43972,56.44844 76.2841,104.06055 -9.68335,56.53109 -66.18663,92.03433 -118.23958,74.29459 z"
      id="path3007"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="M 383.95656,268.54418 C 417.18918,88.590025 200.45001,73.601038 80.668739,75.376259 l 6.76115,-7.830242 7.65247,-8.243737 8.649011,-8.549309 6.6596,-6.0584 25.38258,1.3421 c 79.67277,4.21267 152.74142,8.541182 211.34948,33.610131 93.43772,42.057458 145.8093,129.673478 122.26175,221.526158 -5.7434,17.15812 -16.50209,45.18242 -20.58725,38.30998 -15.9355,-31.24949 -35.34907,-58.63749 -64.84097,-70.93876 z"
      id="path3013"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccscccc" />
   <path
-     style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 25,351.36516 c 42.937739,11.29854 88.07024,14.67707 123.41679,11.17015 47.58494,-5.12446 90.10208,-19.06618 90.49462,-18.67364 0.39256,0.39253 -3.01368,8.18787 -4.13864,14.27346 -5.41269,29.27986 2.25419,51.56535 25.45178,80.34283 -17.72725,12.18787 -58.3271,17.91684 -98.33641,18.03612 -33.21516,0.099 -66.023311,-4.15285 -84.999521,-7.36638 C 52.188963,418.88799 35.200426,387.58433 25,351.36516 z"
      id="path3015"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccscscc" />
   <circle
-     style="fill:#2c89a0;fill-opacity:1;stroke:none"
+     style="fill:#00bbf2;fill-opacity:1;stroke:none"
      id="path3338"
      cx="257"
      cy="403"
@@ -78,7 +78,7 @@
      sodipodi:ry="43"
      transform="matrix(0.62376661,0,0,0.62376661,-14.953319,-59.619909)" />
   <circle
-     style="fill:#2c89a0;fill-opacity:1;stroke:none"
+     style="fill:#00bbf2;fill-opacity:1;stroke:none"
      id="path3338-2"
      cx="389"
      cy="497"

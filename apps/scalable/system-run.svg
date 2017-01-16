@@ -343,7 +343,7 @@
        style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
   </g>
   <rect
-     style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="rect4226"
      width="84"
      height="84"
@@ -461,7 +461,7 @@
      height="3"
      width="83.999832"
      id="rect4649-8"
-     style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#f03916;fill-opacity:1;stroke:none" />
   <rect
      style="opacity:1;fill:#dedede;fill-opacity:1;stroke:none"
      id="rect4285"
@@ -473,5 +473,5 @@
      inkscape:connector-curvature="0"
      id="path4237-9"
      d="M 33,37 33,77 63,57 Z"
-     style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:#f03916;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>
