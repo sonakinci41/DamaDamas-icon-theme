@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-vnd.oasis.opendocument.formula-template.svg">
+   sodipodi:docname="libreoffice-formula.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60666665"
-     inkscape:cx="315.67557"
+     inkscape:cx="66.774464"
      inkscape:cy="373.25662"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -77,12 +77,6 @@
        x="63.139702"
        y="622.1875" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 132.75329,690.43449 c -12.02507,-0.10136 -23.35226,-12.18839 -23.42257,-27.48566 -0.0703,-15.29728 11.99424,-27.58791 24.13958,-27.24665 12.14534,0.34126 22.73834,11.91939 22.94455,28.20268 0.20622,16.28328 -11.63649,26.63099 -23.66156,26.52963 z"
-       id="path4273"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="zzzzz" />
-    <path
        style="fill:none;stroke:#1a1a1a;stroke-width:24.22398758;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 112.47934,926.48774 44.53525,0 29.11919,97.63496 32.54501,-200.40864 169.57656,3.42578 0,51.38683"
        id="path3005"
@@ -97,36 +91,5 @@
        d="m 355.71036,893.94274 -95.9221,113.05096"
        id="path3775-3"
        inkscape:connector-curvature="0" />
-    <g
-       transform="translate(71.846426,-5.948374)"
-       id="g4224">
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path4207"
-         d="m 122.8022,699.61492 0,-57.28023"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path4207-2"
-         d="m 96.222531,642.74677 53.159349,0"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.67021656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(7.166924,-2.0328996)"
-       id="g3342">
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4218-5"
-         d="m 233.38353,692.5151 0.41209,-51.71704 34.44898,0.1457"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4220-0"
-         d="m 236.12687,664.57931 29.13901,0.14569"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
   </g>
 </svg>
