@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
-   sodipodi:docname="preferences-desktop-launch-feedback.svg">
+   sodipodi:docname="application-default-icon.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -39,26 +39,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1149"
-     inkscape:window-height="716"
+     inkscape:window-height="708"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="397.23957"
+     inkscape:cx="55.544655"
      inkscape:cy="462.04395"
      inkscape:window-x="15"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
-  <path
-     sodipodi:type="arc"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#4169e1;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="path3012"
-     sodipodi:cx="278.77966"
-     sodipodi:cy="273.35593"
-     sodipodi:rx="137.76271"
-     sodipodi:ry="134.50847"
-     d="m 416.54237,273.35593 a 137.76271,134.50847 0 1 1 -275.52542,0 137.76271,134.50847 0 1 1 275.52542,0 z"
-     transform="matrix(1.1612903,0,0,1.1612903,-67.184257,-59.106617)" />
   <path
      inkscape:connector-curvature="0"
      id="path2986"

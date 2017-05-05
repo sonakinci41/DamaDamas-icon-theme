@@ -10,7 +10,7 @@
    viewBox="0 0 300000 300000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    width="600"
    height="600"
    sodipodi:docname="mate-panel.svg">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="715"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
      id="namedview63"
      showgrid="false"
      inkscape:zoom="0.61458334"
      inkscape:cx="299.93254"
      inkscape:cy="304.64832"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      units="px"
@@ -120,7 +120,7 @@
      id="g33"
      transform="translate(0,299952)" />
   <path
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:509.73513794"
+     style="fill:#00bbf2;fill-opacity:1;stroke:none;stroke-width:509.73513794"
      d="m 294973.03,150006.32 c 0,80074.29 -64912.68,144989.06 -144986.51,144989.06 -80073.848,0 -144986.5196,-64914.77 -144986.5196,-144989.06 0,-80074.289 64912.6716,-144983.9605 144986.5196,-144983.9605 80073.83,0 144986.51,64909.6715 144986.51,144983.9605 z"
      id="path3805-0"
      clip-path="none"
