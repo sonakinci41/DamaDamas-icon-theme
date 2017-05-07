@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ubuntuone-music.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="167.85205"
+     inkscape:cy="38.464662"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Unison Icon</title>
+  <desc
+     id="desc6">This icon is a part of Clarity icon theme for gtk</desc>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Unison Icon</dc:title>
+        <dc:description>This icon is a part of Clarity icon theme for gtk</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Jankiewicz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jakub Jankiewicz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2010</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://www.gnu.org/copyleft/gpl.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <linearGradient
+       x1="0"
+       y1="128"
+       x2="128"
+       y2="0"
+       id="gradient"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="start"
+         style="stop-color:#dbdbdb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop"
+         style="stop-color:#757575;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="56"
+       y1="80"
+       x2="56"
+       y2="16"
+       id="linearGradient3842"
+       xlink:href="#linearGradient5105-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(23.59322,18.254236)" />
+    <linearGradient
+       id="linearGradient5105-8">
+      <stop
+         id="stop5107-4"
+         style="stop-color:#f5f5f5;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5109-4"
+         style="stop-color:#ebebeb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g4178"
+     transform="matrix(1.0547101,0,0,1.0547101,-2.0921143,-5.4572789)">
+    <path
+       sodipodi:nodetypes="czcczcc"
+       inkscape:connector-curvature="0"
+       id="path3807"
+       d="m 20.235358,62.429634 c 0,0 2.068963,-42.449604 43.029532,-42.80826 40.96057,-0.358655 41.1171,43.955714 41.1171,43.955714 l 9.37088,5.354785 c 0,0 0.9029,-56.703708 -50.679223,-56.768952 -51.582124,-0.06526 -51.826678,59.255104 -51.826678,59.255104 z"
+       style="fill:#808080;stroke:none" />
+    <g
+       transform="matrix(0.2071857,0,0,0.2071857,5.8560874,9.7838576)"
+       id="g3779">
+      <path
+         style="fill:#808080;stroke:none"
+         d="m 93.039098,240.02395 c 0,0 -79.19267,13.10009 -80.27118,93.28813 -1.07851,80.18804 82.44067,100.88136 82.44067,100.88136 z"
+         id="path3777"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czcc" />
+      <path
+         style="fill:#394050;stroke:none"
+         d="m 139.68317,248.70191 -2.16949,175.63576 c 0,0 3.5115,16.94058 -22.6866,16.87372 C 88.628978,441.14449 93.039098,424.9731 93.039098,424.9731 l -1.08474,-174.64407 c 0,0 -4.04938,-17.97474 23.738452,-17.86541 27.78783,0.10934 23.99036,16.23829 23.99036,16.23829 z"
+         id="path3775"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cczcczc" />
+    </g>
+    <g
+       transform="matrix(-0.2071857,0,0,0.2071857,120.19191,10.427294)"
+       id="g3779-3">
+      <path
+         style="fill:#808080;stroke:none"
+         d="m 93.039098,240.02395 c 0,0 -79.19267,13.10009 -80.27118,93.28813 -1.07851,80.18804 82.44067,100.88136 82.44067,100.88136 z"
+         id="path3777-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czcc" />
+      <path
+         style="fill:#394050;stroke:none"
+         d="m 139.68317,248.70191 -2.16949,175.63576 c 0,0 3.5115,16.94058 -22.6866,16.87372 C 88.628978,441.14449 93.039098,424.9731 93.039098,424.9731 l -1.08474,-174.64407 c 0,0 -4.04938,-17.97474 23.738452,-17.86541 27.78783,0.10934 23.99036,16.23829 23.99036,16.23829 z"
+         id="path3775-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cczcczc" />
+    </g>
+    <path
+       sodipodi:nodetypes="cssscccccccccc"
+       d="m 32.348368,46.054199 0,24.05097 c 0,19.998465 0.702501,24.786219 1.484641,28.062056 2.940437,12.315455 10.850965,19.374925 23.598871,21.078875 6.900691,0.92238 20.837961,-0.15068 31.798923,-2.43535 l 4.005077,-0.82275 0,-69.933804 -20.29584,-0.05033 0,55.813544 -20.295836,0 0,-39.323176 -7.610939,0 10.147918,-16.490363 z"
+       inkscape:connector-curvature="0"
+       id="path3865"
+       style="fill:#f03916;fill-opacity:1" />
+  </g>
+</svg>
