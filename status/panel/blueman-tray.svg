@@ -13,7 +13,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="blueman-tray.svg"
    viewBox="0 0 22 22">
   <metadata
@@ -38,13 +38,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      id="namedview9"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:zoom="13.906433"
-     inkscape:cx="10.727932"
+     inkscape:cx="-1.6404446"
      inkscape:cy="5.6818146"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,7 +55,7 @@
   <defs
      id="defs4" />
   <path
-     style="fill:#fbfbfb;fill-opacity:1;stroke-width:3.85841036"
+     style="fill:#f7f7f7;fill-opacity:1;stroke-width:3.85841036"
      inkscape:connector-curvature="0"
      d="m 5.2399001,6.6956978 4.1240856,4.1704032 0,0 -4.1240856,4.170434 1.3116,1.322109 3.4286713,-3.3911 0,7.960548 L 16.2399,15.025818 12.444914,10.866101 16.229886,6.7121678 10.014157,0.92809183 9.9845857,8.8511221 6.5559144,5.3780178 Z M 11.868385,4.827876 13.769729,6.6380135 11.868385,8.9826492 Z m 0,8.321178 1.905758,1.945142 -1.901358,1.810142 z"
      id="shape0" />

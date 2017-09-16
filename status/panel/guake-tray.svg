@@ -14,7 +14,7 @@
    height="22"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="guake-tray.svg"
    viewBox="0 0 22 22">
   <defs
@@ -35,15 +35,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.2149125"
-     inkscape:cx="17.057191"
-     inkscape:cy="33.257147"
+     inkscape:zoom="14.75"
+     inkscape:cx="4.1824726"
+     inkscape:cy="5.9085794"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,26 +66,24 @@
      inkscape:groupmode="layer"
      transform="translate(0,-42)">
     <g
-       id="g4138"
-       transform="matrix(0.04381805,0,0,0.04381805,-0.0725411,61.124949)">
+       id="g824">
       <rect
-         ry="19.106968"
-         y="-353.37128"
-         x="34.283569"
-         height="338.6174"
-         width="431.43286"
+         ry="0.83723009"
+         y="45.640907"
+         x="1.4296981"
+         height="14.837554"
+         width="18.904547"
          id="rect2993"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f7f7f7;stroke-width:1.09545124;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text5213"
-         y="-233.08334"
-         x="75.181442"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.42585754px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="50.91169"
+         x="3.2217631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.52581662px;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f7f7f7;fill-opacity:1;stroke:#f7f7f7;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           style="stroke-width:0"
-           y="-233.08334"
-           x="75.181442"
+           style="font-size:4.53191948px;line-height:1.25;stroke-width:0;stroke:#f7f7f7;stroke-opacity:1;fill:#f7f7f7;fill-opacity:1;"
+           y="50.91169"
+           x="3.2217631"
            id="tspan4147"
            sodipodi:role="line">$_</tspan></text>
     </g>

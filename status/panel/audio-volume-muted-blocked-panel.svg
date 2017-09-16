@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="audio-volume-low-zero-panel.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="audio-volume-muted-blocked-panel.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-9.5386828"
+     inkscape:cx="19.032746"
      inkscape:cy="2.987357"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -55,7 +55,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.23837566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#f7f7f7;stroke-width:1.23837566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 3.4662986,1037.9529 3.096097,-0.031 2.8146337,-2.971 -0.031272,12.8847 -2.7833602,-2.8772 -3.1586444,-0.031 z"
        id="path4301"
        inkscape:connector-curvature="0" />

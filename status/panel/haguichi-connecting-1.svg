@@ -10,7 +10,7 @@
    viewBox="0 0 22 22"
    id="svg"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    width="100%"
    height="100%"
    sodipodi:docname="haguichi-connecting-1.svg">
@@ -76,11 +76,11 @@
      inkscape:pageopacity="0.06666667"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="714"
      id="namedview32"
      showgrid="true"
      inkscape:zoom="7.9999996"
-     inkscape:cx="-11.738402"
+     inkscape:cx="-8.2384018"
      inkscape:cy="7.3346367"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -99,12 +99,12 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:1.11282539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.11282539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 11.914098,1.619675 -7.7897775,8.902603 5.5641268,0 7.7897777,-8.902603 z"
      id="path4152"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.11282539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.11282539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 9.7501603,11.604246 7.7897777,8.902603 -5.564127,0 -7.7897775,-8.902603 z"
      id="path4152-3"
      inkscape:connector-curvature="0" />

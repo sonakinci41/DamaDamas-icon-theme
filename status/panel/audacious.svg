@@ -13,7 +13,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="audacious.svg">
   <defs
      id="defs4" />
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.402098"
-     inkscape:cx="-1.9175676"
+     inkscape:cx="-2.9700055"
      inkscape:cy="9.2820081"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,19 +72,18 @@
        cy="1041.4225"
        cx="11.027358"
        id="circle4141"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="fill:#f7f7f7;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.51257515px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#394050;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;"
        x="4.8001623"
        y="1134.0996"
        id="text2997"
-       sodipodi:linespacing="125%"
        transform="scale(1.0839531,0.92254913)"><tspan
          sodipodi:role="line"
          id="tspan2999"
          x="4.8001623"
          y="1134.0996"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#394050">a</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.51257515px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#808080;">a</tspan></text>
   </g>
 </svg>

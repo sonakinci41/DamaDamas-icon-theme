@@ -13,7 +13,7 @@
    id="svg2"
    height="22"
    width="22"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="ibus-keyboard.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,11 +25,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="6.6093754"
-     inkscape:cx="30.481266"
+     inkscape:cx="4.4576269"
      inkscape:cy="20.421674"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -154,35 +154,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g4156"
-     transform="matrix(0.04444444,0,0,0.04444444,-0.37777764,21.4)">
-    <rect
-       ry="66.489136"
-       rx="54.3265"
-       y="-459"
-       x="31"
-       height="450"
-       width="450"
-       id="rect4444"
-       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538" />
-    <rect
-       ry="51.713772"
-       rx="42.253944"
-       y="-407.69449"
-       x="79.694481"
-       height="350"
-       width="350"
-       id="rect4444-3"
-       style="fill:#fbfbfb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       d="m 344.93492,-134.56476 -77.4887,-188.40897 -21.25108,0 -78.00701,188.40897 26.69343,0 24.10183,-61.93912 74.37878,0 24.62015,61.93912 26.9526,0 z m -60.90249,-82.93105 -55.97845,0 28.7667,-77.22953 27.21175,77.22953 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230.9047699px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#394050;fill-opacity:1;stroke:none"
-       id="path4167"
-       inkscape:connector-curvature="0" />
-  </g>
+  <rect
+     style="fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.04444444"
+     id="rect4444-3"
+     width="15.555554"
+     height="15.555554"
+     x="3.1641989"
+     y="3.2802467"
+     rx="1.8779529"
+     ry="2.2983897" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4167"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230.9047699px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.04444444"
+     d="M 14.952662,15.419345 11.50872,7.0456134 H 10.564227 L 7.0972496,15.419345 h 1.1863746 l 1.0711923,-2.75285 H 12.66054 l 1.094229,2.75285 z M 12.245885,11.733521 H 9.7579538 L 11.036474,8.3010973 Z" />
 </svg>

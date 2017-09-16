@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="battery_charged.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="gpm-ac-adapter.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="42.68598"
+     inkscape:cx="20.9677"
      inkscape:cy="2.3348734"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -55,42 +55,37 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <g
-       transform="matrix(0.74074072,0,0,0.74074072,-36.851851,975.76961)"
-       id="22-22-battery-charging">
+       id="g837">
       <rect
          ry="0"
-         y="73.700005"
-         x="49.75"
-         height="29.700001"
-         width="29.700001"
+         y="1030.3622"
+         x="-1.8e-07"
+         height="22"
+         width="22"
          id="rect4335-4-4"
-         style="fill:#f7f7f7;fill-opacity:0;stroke:none" />
+         style="fill:#f7f7f7;fill-opacity:0;stroke:none;stroke-width:0.74074072" />
       <g
-         transform="translate(-35.020622,-6.829416)"
-         id="g5017">
-        <g
-           transform="matrix(0,1,-1,0,128.78859,56.65671)"
-           id="g4439"
-           style="fill:#ffffff">
-          <path
-             class="ColorScheme-Text"
-             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-             d="m 39.502299,23.075 -4.909005,7.363575 2.454435,0 0,6.136425 4.909005,-7.36371 -2.454435,0 z"
-             id="path4441"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccc" />
-          <g
-             id="g4443"
-             transform="translate(27,24.3)"
-             style="fill:#ffffff" />
-        </g>
+         style="fill:#f7f7f7;fill-opacity:1"
+         id="g4439"
+         transform="matrix(0,0.74074072,-0.74074072,0,32.605901,1012.6787)">
         <path
-           style="fill:#f7f7f7;fill-opacity:1;stroke:none"
-           d="m 111.77061,92.123534 -1.42941,0 0,-4.288235 -22.87059,0 0,14.294121 22.87059,0 0,-4.288238 1.42941,0 z m -2.85603,5.717648 0,2.858828 -20.01456,0 0,-11.435299 20.01177,0 0,2.858823 0,5.717647 z"
-           id="rect4251-6-3"
+           sodipodi:nodetypes="ccccccc"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccccccccccc" />
+           id="path4441"
+           d="m 39.502299,23.075 -4.909005,7.363575 h 2.454435 V 36.575 l 4.909005,-7.36371 h -2.454435 z"
+           style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           class="ColorScheme-Text" />
+        <g
+           style="fill:#f7f7f7;fill-opacity:1"
+           transform="translate(27,24.3)"
+           id="g4443" />
       </g>
+      <path
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4251-6-3"
+         d="m 19.99999,1038.9504 h -1.058822 v -3.1764 H 1.9999906 v 10.5882 H 18.941168 v -3.1765 h 1.058822 z m -2.115578,4.2353 v 2.1177 H 3.0588128 v -8.4706 H 17.882346 v 2.1176 4.2353 z"
+         style="fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:0.74074072" />
     </g>
   </g>
 </svg>

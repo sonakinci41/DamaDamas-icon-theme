@@ -12,7 +12,7 @@
    width="22"
    version="1.1"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="exaile.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,11 +24,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="9.1923879"
-     inkscape:cx="6.581674"
+     inkscape:cx="-12.12946"
      inkscape:cy="9.7703279"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -42,7 +42,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,14 +83,14 @@
     </filter>
   </defs>
   <ellipse
-     style="fill:#fbfbfb;fill-opacity:1;stroke:none"
+     style="fill:#f7f7f7;fill-opacity:1;stroke:none"
      id="path3015"
      cx="11"
      cy="11.000001"
      rx="10"
      ry="9.999999" />
   <path
-     style="fill:#cccccc;stroke:none"
+     style="fill:#808080;stroke:none"
      d="m 7.4307687,6.9931618 0,8.8888892 8.8888893,-4.666667 z"
      id="path3785"
      inkscape:connector-curvature="0"
