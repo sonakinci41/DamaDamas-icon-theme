@@ -13,7 +13,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="folder-favorites.svg">
   <defs
      id="defs4" />
@@ -31,7 +31,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -74,7 +74,7 @@
        id="path3768-3"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#faec6d;stroke:none;stroke-width:1.76573062000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffdd55;stroke:none;stroke-width:1.76573062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 356.65135,760.60218 -28.37781,90.1784 -93.96211,0 74.41294,54.86377 -27.11657,92.07026 76.30478,-54.86381 75.67418,52.97195 -27.7472,-89.54778 75.67416,-54.23317 -93.33147,-1.26122 z"
        id="path2997"
        inkscape:connector-curvature="0" />

@@ -13,7 +13,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="folder-public.svg">
   <defs
      id="defs4" />
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="-54.14159"
+     inkscape:cx="-749.12655"
      inkscape:cy="358.52163"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -74,7 +74,7 @@
        id="path3768-3"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:#faec6d;fill-opacity:1;stroke:#394050;stroke-width:16.30294037000000174;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffdd55;fill-opacity:1;stroke:#394050;stroke-width:16.30294037;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2988"
        width="185.08922"
        height="185.08922"
@@ -97,7 +97,7 @@
        sodipodi:cy="234.76785"
        sodipodi:rx="9.4642859"
        sodipodi:ry="9.7321424"
-       d="m 860.17858,234.76785 a 9.4642859,9.7321424 0 1 1 -10e-5,-0.0457"
+       d="m 860.17858,234.76785 a 9.4642859,9.7321424 0 0 1 -9.45318,9.73214 9.4642859,9.7321424 0 0 1 -9.47537,-9.70929 9.4642859,9.7321424 0 0 1 9.43094,-9.75493 9.4642859,9.7321424 0 0 1 9.49751,9.68639"
        transform="matrix(1.3438738,0,0,1.2822282,-790.12205,509.95309)"
        sodipodi:start="0"
        sodipodi:end="6.2784904"
