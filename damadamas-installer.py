@@ -154,7 +154,7 @@ if os.getuid() != 0:
 	url = os.path.expanduser("~")+"/.icons"
 else:
 	print("Damadamas icon theme installer will run as root.\nThe icon will be installed in usr/share/icons file.\n\n")
-	url = "usr/share/icons"
+	url = "/usr/share/icons"
 
 sil = False
 if os.path.exists(url+"/DamaDamas-icon-theme"):
