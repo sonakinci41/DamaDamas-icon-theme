@@ -153,7 +153,7 @@ if os.getuid() != 0:
 	print("Damadamas icon theme installer will run as not root.\nThe icon will be installed in {}/.icons file.\n\n".format(os.path.expanduser("~")))
 	url = os.path.expanduser("~")+"/.icons"
 else:
-	print("Damadamas icon theme installer will run as root.\nThe icon will be installed in usr/share/icons file.\n\n")
+	print("Damadamas icon theme installer will run as root.\nThe icon will be installed in /usr/share/icons file.\n\n")
 	url = "/usr/share/icons"
 
 sil = False
