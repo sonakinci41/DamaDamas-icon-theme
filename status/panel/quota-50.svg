@@ -13,7 +13,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.1 r15371"
    viewBox="0 0 22 22"
    sodipodi:docname="quota-50.svg">
   <defs
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="7.9330274"
-     inkscape:cy="3.5517767"
+     inkscape:cx="11.342292"
+     inkscape:cy="9.8652301"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,35 +46,43 @@
     <sodipodi:guide
        position="2,20.000017"
        orientation="18,0"
-       id="guide4085" />
+       id="guide4085"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2,2.0000174"
        orientation="0,18"
-       id="guide4087" />
+       id="guide4087"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="20,2.0000174"
        orientation="-18,0"
-       id="guide4089" />
+       id="guide4089"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="20,20.000017"
        orientation="0,-18"
-       id="guide4091" />
+       id="guide4091"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,19.000017"
        orientation="16,0"
-       id="guide4093" />
+       id="guide4093"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,3.0000174"
        orientation="0,16"
-       id="guide4095" />
+       id="guide4095"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="19,3.0000174"
        orientation="-16,0"
-       id="guide4097" />
+       id="guide4097"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="19,19.000017"
        orientation="0,-16"
-       id="guide4099" />
+       id="guide4099"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid4101" />
@@ -97,7 +105,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#394050;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 4,1034.3622 c -0.554,0 -1,0.446 -1,1 l 0,1 0,1 0,1 0,9 0,1 1,0 8,0 0,-1 -8,0 0,-8 5,0 2,-2 7,0 0,4 1,0 0,-5 -8,0 0,-1 c 0,-0.554 -0.446,-1 -1,-1 z m 0.4042969,1 5.1914062,0 c 0.223472,0 0.4042969,0.1808 0.4042969,0.4043 l 0,1.0957 -1.5,1.5 -4.5,0 0,-2.5957 c 0,-0.2235 0.1808251,-0.4043 0.4042969,-0.4043 z"
        id="rect4165-6"
        inkscape:connector-curvature="0"

@@ -14,7 +14,7 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="xfce4-mixer-no-record.svg">
   <defs
      id="defs4" />
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.886364"
-     inkscape:cx="7.3713852"
+     inkscape:cx="16.457427"
      inkscape:cy="13.079917"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -65,12 +65,12 @@
        rx="2.7473078"
        ry="3.4805136" />
     <path
-       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#4c4c4c;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel"
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#4c4c4c;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel"
        inkscape:connector-curvature="0"
        id="shape01"
        d="m 7.9298264,1051.6642 7.6624296,0.025 c -1.98535,-2.4161 -5.6233896,-2.3819 -7.6624296,-0.025 z" />
     <rect
-       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
        y="1047.1584"
        x="10.949"
        id="rect3005"
@@ -78,7 +78,7 @@
        width="1.6468761"
        height="2.8173218" />
     <path
-       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
        inkscape:connector-curvature="0"
        id="shape02"
        stroke-miterlimit="2.00000000000"

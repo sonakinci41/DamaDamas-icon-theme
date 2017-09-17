@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="gpm-battery-060.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="notification-gpm-ups-060.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="-0.9399829"
+     inkscape:cx="-22.658262"
      inkscape:cy="2.3348734"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -55,32 +55,28 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <g
-       transform="matrix(0.74074072,0,0,0.74074072,209.14815,1037.7696)"
-       id="Fill60">
+       id="g826">
       <rect
          ry="0"
-         y="-10"
-         x="-282.35001"
-         height="29.700001"
-         width="29.700001"
+         y="1030.3622"
+         x="3.1868774e-06"
+         height="22"
+         width="22"
          id="rect4335-5-9-9-2"
-         style="fill:#f7f7f7;fill-opacity:0;stroke:none" />
-      <g
-         id="g3731">
-        <path
-           style="fill:#f7f7f7;fill-opacity:1;stroke:none"
-           d="m -255.35002,1.5941187 -1.42941,0 0,-4.2882354 -22.87059,0 0,14.2941187 22.87059,0 0,-4.2882361 1.42941,0 z m -2.85603,5.7176472 0,2.8588231 -20.01456,0 0,-11.4352939 20.01177,0 0,2.8588236 0,5.7176472 z"
-           id="rect4251-5-2-6-1"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccccccccccc" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect3526-6-7-0-8"
-           width="11.960188"
-           height="10.082813"
-           x="-277.53009"
-           y="-0.54999822" />
-      </g>
+         style="fill:#f7f7f7;fill-opacity:0;stroke:none;stroke-width:0.74074072" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4251-5-2-6-1"
+         d="M 19.999992,1038.9504 H 18.94117 v -3.1764 H 1.9999928 v 10.5882 H 18.94117 v -3.1765 h 1.058822 z m -2.115577,4.2353 v 2.1177 h -14.8256 v -8.4706 h 14.823533 v 2.1176 4.2353 z"
+         style="fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:0.74074072" />
+      <rect
+         y="1037.3622"
+         x="3.5703111"
+         height="7.4687505"
+         width="8.8593979"
+         id="rect3526-6-7-0-8"
+         style="fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:6.66666651;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="gpm-keyboard-060.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="xfpm-keyboard-060.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="-4.8849398"
+     inkscape:cx="-1.3494059"
      inkscape:cy="2.3348734"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -54,49 +54,33 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1030.3622)">
-    <g
-       id="g4156"
-       transform="matrix(0.02222222,0,0,0.02222222,0.31111118,1051.5622)">
-      <rect
-         ry="66.489136"
-         rx="54.3265"
-         y="-459"
-         x="31"
-         height="450"
-         width="450"
-         id="rect4444"
-         style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538" />
-      <rect
-         ry="51.713772"
-         rx="42.253944"
-         y="-407.69449"
-         x="79.694481"
-         height="350"
-         width="350"
-         id="rect4444-3"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <path
-         d="m 344.93492,-134.56476 -77.4887,-188.40897 -21.25108,0 -78.00701,188.40897 26.69343,0 24.10183,-61.93912 74.37878,0 24.62015,61.93912 26.9526,0 z m -60.90249,-82.93105 -55.97845,0 28.7667,-77.22953 27.21175,77.22953 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230.9047699px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#394050;fill-opacity:1;stroke:none"
-         id="path4167"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3731"
-       transform="matrix(0,-0.74074072,0.74074072,0,12.995642,843.21404)">
-      <path
-         sodipodi:nodetypes="ccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4251-5-2-6-1"
-         d="m -255.35002,1.5941187 -1.42941,0 0,-4.2882354 -22.87059,0 0,14.2941187 22.87059,0 0,-4.2882361 1.42941,0 z m -2.85603,5.7176472 0,2.8588231 -20.01456,0 0,-11.4352939 20.01177,0 0,2.8588236 0,5.7176472 z"
-         style="fill:#f7f7f7;fill-opacity:1;stroke:none" />
-      <rect
-         y="-0.54999822"
-         x="-277.53009"
-         height="10.082813"
-         width="11.960188"
-         id="rect3526-6-7-0-8"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.02222222"
+       id="rect4444-3"
+       width="7.7777772"
+       height="7.7777772"
+       x="2.0820994"
+       y="1042.5023"
+       rx="0.93897647"
+       ry="1.1491948" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4167"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230.9047699px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.02222222"
+       d="m 7.9763309,1048.5719 -1.721971,-4.1869 H 5.7821137 l -1.7334889,4.1869 h 0.5931873 l 0.5355961,-1.3765 h 1.6528617 l 0.5471144,1.3765 z M 6.6229423,1046.729 H 5.3789769 l 0.6392599,-1.7163 z" />
+    <path
+       style="fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:0.74074072"
+       d="m 14.176471,1032.3622 v 1.0588 H 11 v 16.9412 h 10.588236 v -16.9412 h -3.176471 v -1.0588 z m 4.235294,2.1156 h 2.117646 v 14.8256 h -8.470587 v -14.8236 h 2.117647 4.235294 z"
+       id="rect4251-5-2-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <rect
+       style="fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:6.66666651;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3526-6-7-0-8"
+       width="8.8593979"
+       height="7.4687505"
+       x="-1048.7919"
+       y="12.588236"
+       transform="rotate(-90)" />
   </g>
 </svg>

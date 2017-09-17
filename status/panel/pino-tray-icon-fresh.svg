@@ -10,7 +10,7 @@
    viewBox="0 0 22 22"
    id="svg"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    width="100%"
    height="100%"
    sodipodi:docname="pino-tray-icon-fresh.svg">
@@ -76,11 +76,11 @@
      inkscape:pageopacity="0.06666667"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="714"
      id="namedview32"
      showgrid="true"
      inkscape:zoom="11.313708"
-     inkscape:cx="9.2581128"
+     inkscape:cx="-5.9446837"
      inkscape:cy="12.176308"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -99,7 +99,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 13.214351,21.165515 0,-2.210708 7.841105,-1.48532 L 16.530413,13.531662 18.25753,11.217328 14.319705,7.9012655 15.977737,6.3123179 11.003643,1.269141 6.2713458,6.3468602 8.033004,7.9012655 3.8188415,11.528208 l 2.1761664,1.899828 -4.9395516,3.86874 7.7374786,1.658031 0,2.210708 z"
      id="path4152"
      inkscape:connector-curvature="0"
