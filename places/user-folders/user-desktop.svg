@@ -13,8 +13,8 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="desktop.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="user-desktop.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="60.837647"
+     inkscape:cx="386.55193"
      inkscape:cy="185.8996"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -224,7 +224,7 @@
        y="920.8316" />
     <path
        sodipodi:type="arc"
-       style="fill:#faec6d;fill-opacity:1;stroke:none"
+       style="fill:#ffd42a;fill-opacity:1;stroke:none"
        id="path3767"
        sodipodi:cx="942.85712"
        sodipodi:cy="126.28571"
