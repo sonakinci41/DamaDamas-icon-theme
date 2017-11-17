@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2997"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.1 r15371"
    width="512"
    height="512"
    sodipodi:docname="qbittorrent.svg">
@@ -43,7 +43,7 @@
      id="namedview2999"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="192.38897"
+     inkscape:cx="-201.37374"
      inkscape:cy="363.41011"
      inkscape:window-x="15"
      inkscape:window-y="39"
@@ -58,12 +58,12 @@
      y="34.881355"
      ry="50.400002" />
   <path
-     style="fill:#16502d;fill-opacity:1;stroke:none"
+     style="fill:#004455;fill-opacity:1;stroke:none"
      d="m 257.18593,438.56326 c 97.31632,0 176.20677,-78.89022 176.20677,-176.20659 0,-97.31638 -78.89045,-176.206595 -176.20677,-176.206595 l 0,33.038745 c 79.06949,0 143.168,64.09915 143.168,143.16785 0,79.06985 -64.09851,143.16786 -143.168,143.16786 l 0,33.03873 z"
      id="path863"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#37c871;fill-opacity:1;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="m 80.979135,262.35667 c 0,97.31637 78.890465,176.20659 176.206795,176.20659 l 0,-33.03873 c -79.06951,0 -143.16802,-64.09801 -143.16802,-143.16786 0,-79.0687 64.09851,-143.16785 143.16802,-143.16785 l 0,-33.038745 c -97.31633,0 -176.206795,78.890215 -176.206795,176.206595 z"
      id="path858"
      inkscape:connector-curvature="0" />
