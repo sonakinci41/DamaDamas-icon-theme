@@ -31,7 +31,7 @@ def sarkiKlasorAktar(url,degisecekRenk,yeniRenk):
 				dosya = open(url+"/"+i,"w")
 				dosya.write(okunan_1)
 				dosya.close()
-			except IOError:
+			except:
 				pass
 		elif os.path.isdir(url+"/"+i):
 			sarkiKlasorAktar(url+"/"+i,degisecekRenk,yeniRenk)
