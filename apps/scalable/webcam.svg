@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="512"
+   height="512"
+   sodipodi:docname="webcam.svg"
+   viewBox="0 0 512 512">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.53515625"
+     inkscape:cx="471.78127"
+     inkscape:cy="247.91955"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-units="px" />
+  <path
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02230215"
+     d=""
+     id="path3783"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g3348"
+     transform="matrix(1.1111111,0,0,1.1111111,-69.935464,-72.37107)">
+    <path
+       d="M 521.35068,297.57047 A 225,225 0 0 1 296.61477,522.57031 225,225 0 0 1 71.351297,298.09864 225,225 0 0 1 295.55841,72.57186 225,225 0 0 1 521.3482,296.51411"
+       sodipodi:open="true"
+       sodipodi:end="6.2784904"
+       sodipodi:start="0"
+       sodipodi:ry="225"
+       sodipodi:rx="225"
+       sodipodi:cy="297.57047"
+       sodipodi:cx="296.35068"
+       sodipodi:type="arc"
+       id="path3346"
+       style="fill:#5d6a7b;fill-opacity:1;stroke:none;stroke-width:35;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="134.70154"
+       y="162.59692"
+       x="159.3835"
+       height="269.40308"
+       width="269.40308"
+       id="rect3427"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#00bbf2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3429"
+       width="224.50255"
+       height="224.50255"
+       x="181.83379"
+       y="185.0472"
+       ry="112.25127" />
+    <rect
+       ry="89.801041"
+       y="207.49744"
+       x="204.28386"
+       height="179.6021"
+       width="179.6021"
+       id="rect3431"
+       style="fill:#216778;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#164450;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3433"
+       width="134.70154"
+       height="134.70154"
+       x="226.7343"
+       y="229.94772"
+       ry="67.350769" />
+    <rect
+       ry="44.90052"
+       y="252.39786"
+       x="249.18443"
+       height="89.801041"
+       width="89.801041"
+       id="rect3435"
+       style="fill:#0b2228;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3437"
+       width="44.90052"
+       height="44.90052"
+       x="294.08511"
+       y="252.39786"
+       ry="22.45026" />
+    <rect
+       ry="11.22513"
+       y="319.7486"
+       x="249.18443"
+       height="22.45026"
+       width="22.45026"
+       id="rect3439"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+</svg>
