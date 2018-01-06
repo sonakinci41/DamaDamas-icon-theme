@@ -14,7 +14,7 @@
    height="512"
    width="512"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="key_bindings.svg">
+   sodipodi:docname="key-mon.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,9 +28,9 @@
      inkscape:window-height="715"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="0.41308596"
-     inkscape:cx="257.29633"
-     inkscape:cy="87.547891"
+     inkscape:zoom="0.29209588"
+     inkscape:cx="-249.88743"
+     inkscape:cy="201.88391"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -168,7 +168,7 @@
        height="241.39137"
        width="241.39137"
        id="rect4444"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538" />
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538" />
     <rect
        ry="27.740574"
        rx="22.666082"
@@ -177,20 +177,20 @@
        height="187.74883"
        width="187.74883"
        id="rect4444-3"
-       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        d="m 189.13202,417.06743 -41.5669,-101.06734 -11.39962,0 -41.844927,101.06734 14.319027,0 12.92883,-33.22572 39.89866,0 13.20688,33.22572 14.45805,0 z m -32.66964,-44.48632 -30.02825,0 15.43118,-41.42786 14.59707,41.42786 z"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230.9047699px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#394050;fill-opacity:1;stroke:none"
        id="path4167"
        inkscape:connector-curvature="0" />
     <g
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#ebebeb;fill-opacity:1"
        transform="matrix(2.8320714,0,0,-2.8320714,481.25414,295.24898)"
        id="g310">
       <path
          inkscape:connector-curvature="0"
          id="path312"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 c 0,0 6,57.667 -2,67 -8,9.333 -24.666,11.667 -24.666,11.667 l -0.834,0 0,-33.167 c 0,-2.201 -1.8,-4 -4,-4 l -7.833,0 c -2.2,0 -4,1.799 -4,4 l 0,33.167 C -43.333,78.667 -60,76.333 -68,67 -76,57.667 -70,0 -70,0 -70,0 -89.334,-66.001 -35,-66.001 19.334,-66.001 0,0 0,0" />
     </g>
     <g

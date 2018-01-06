@@ -13,8 +13,8 @@
    id="svg2"
    height="512"
    width="512"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="autokey.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="caribou.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="715"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="0.58419177"
-     inkscape:cx="711.4773"
+     inkscape:cx="416.19755"
      inkscape:cy="378.81615"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -158,27 +158,30 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228537999999988"
-     id="rect4444"
-     width="450"
-     height="450"
-     x="31"
-     y="31"
-     rx="54.3265"
-     ry="66.489136" />
-  <rect
-     style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="rect4444-3"
-     width="350"
-     height="350"
-     x="79.694481"
-     y="82.305519"
-     rx="42.253944"
-     ry="51.713772" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path4167"
-     style="font-size:230.9047699px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#394050;fill-opacity:1;stroke:none;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold'"
-     d="m 344.93492,355.43524 -77.4887,-188.40897 -21.25108,0 -78.00701,188.40897 26.69343,0 24.10183,-61.93912 74.37878,0 24.62015,61.93912 26.9526,0 z m -60.90249,-82.93105 -55.97845,0 28.7667,-77.22953 27.21175,77.22953 z" />
+  <g
+     id="g4156">
+    <rect
+       ry="66.489136"
+       rx="54.3265"
+       y="31"
+       x="31"
+       height="450"
+       width="450"
+       id="rect4444"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538" />
+    <rect
+       ry="51.713772"
+       rx="42.253944"
+       y="82.305519"
+       x="79.694481"
+       height="350"
+       width="350"
+       id="rect4444-3"
+       style="fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 344.93492,355.43524 -77.4887,-188.40897 -21.25108,0 -78.00701,188.40897 26.69343,0 24.10183,-61.93912 74.37878,0 24.62015,61.93912 26.9526,0 z m -60.90249,-82.93105 -55.97845,0 28.7667,-77.22953 27.21175,77.22953 z"
+       style="font-size:230.9047699px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#394050;fill-opacity:1;stroke:none;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold'"
+       id="path4167"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

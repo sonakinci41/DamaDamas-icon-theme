@@ -39,18 +39,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.65186406"
-     inkscape:cx="279.6805"
+     inkscape:cx="463.76796"
      inkscape:cy="188.4163"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
-     id="g4285">
+     id="g4151">
     <ellipse
        transform="matrix(-0.73600531,-0.67697576,-0.67697576,0.73600531,0,0)"
        ry="56.677044"
@@ -82,7 +82,7 @@
        cy="119.28009"
        cx="259.2565"
        id="path4171-6-2"
-       style="opacity:1;fill:#c83771;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#892ca0;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
        transform="matrix(0.79460008,-0.60713319,0.60713319,0.79460008,0,0)"
        ry="56.677044"
@@ -112,6 +112,6 @@
        inkscape:connector-curvature="0"
        id="path4283"
        d="m 185.23801,178.72499 146.88645,1.91758 -19.55929,42.57022 -107.38435,-0.38351 z"
-       style="fill:#394050;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+       style="fill:#394050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

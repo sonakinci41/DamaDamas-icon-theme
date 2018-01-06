@@ -13,7 +13,7 @@
    height="128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="kalzium.svg">
   <metadata
      id="metadata16">
@@ -37,97 +37,51 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="715"
      id="namedview14"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="3.4766083"
-     inkscape:cx="83.449733"
-     inkscape:cy="43.108329"
+     inkscape:zoom="0.61458333"
+     inkscape:cx="-360.80665"
+     inkscape:cy="200.34579"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     inkscape:snap-global="false">
-    <sodipodi:guide
-       position="9.5367432e-07,48.000001"
-       orientation="47.999999,0"
-       id="guide4074" />
-    <sodipodi:guide
-       position="9.5367432e-07,1.9073486e-06"
-       orientation="0,47.999999"
-       id="guide4076" />
-    <sodipodi:guide
-       position="48,1.9073486e-06"
-       orientation="-47.999999,0"
-       id="guide4078" />
-    <sodipodi:guide
-       position="48,48.000001"
-       orientation="0,-47.999999"
-       id="guide4080" />
-    <sodipodi:guide
-       position="4.000001,44.000001"
-       orientation="39.999999,0"
-       id="guide4082" />
-    <sodipodi:guide
-       position="4.000001,4.0000019"
-       orientation="0,39.999999"
-       id="guide4084" />
-    <sodipodi:guide
-       position="44,4.0000019"
-       orientation="-39.999999,0"
-       id="guide4086" />
-    <sodipodi:guide
-       position="44,44.000001"
-       orientation="0,-39.999999"
-       id="guide4088" />
-    <sodipodi:guide
-       position="11.000001,37.000001"
-       orientation="25.999999,0"
-       id="guide4121" />
-    <sodipodi:guide
-       position="11.000001,11.000002"
-       orientation="0,25.999999"
-       id="guide4123" />
-    <sodipodi:guide
-       position="37,11.000002"
-       orientation="-25.999999,0"
-       id="guide4125" />
-    <sodipodi:guide
-       position="37,37.000001"
-       orientation="0,-25.999999"
-       id="guide4127" />
-  </sodipodi:namedview>
+     inkscape:snap-global="false" />
   <defs
      id="defs4" />
-  <path
-     style="fill:#394050;fill-opacity:1;stroke:none"
-     d="m 92.645708,18.966703 -67.621036,39.041458 3.470941,6.009738 -3.524884,6.105274 67.671483,39.070157 3.524887,-6.10531 6.940061,0.001 3.8e-4,-78.082247 -6.974285,-4.78e-4 -3.487547,-6.039663 z m 1.447754,9.572689 -0.0032,71.078864 -61.551177,-35.53649 61.554377,-35.542374 z"
-     id="rect4103"
-     inkscape:connector-curvature="0" />
-  <rect
-     y="3.9720879"
-     x="76.060707"
-     height="48.086342"
-     width="48.086342"
-     id="rect4099"
-     style="fill:#00bbf2;fill-opacity:1;stroke:none"
-     ry="24.043171" />
-  <rect
-     style="fill:#f03916;fill-opacity:1;stroke:none"
-     id="rect4097"
-     width="48.086342"
-     height="48.086342"
-     x="76.060707"
-     y="76.101601"
-     ry="24.043171" />
-  <rect
-     style="fill:#9b59b6;fill-opacity:1;stroke:none"
-     id="rect4101"
-     width="48.086342"
-     height="48.086342"
-     x="3.9312057"
-     y="40.036846"
-     ry="24.043171" />
+  <g
+     id="g4148">
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4103"
+       d="m 92.645708,18.966703 -67.621036,39.041458 3.470941,6.009738 -3.524884,6.105274 67.671483,39.070157 3.524887,-6.10531 6.940061,0.001 3.8e-4,-78.082247 -6.974285,-4.78e-4 -3.487547,-6.039663 z m 1.447754,9.572689 -0.0032,71.078864 -61.551177,-35.53649 61.554377,-35.542374 z"
+       style="fill:#394050;fill-opacity:1;stroke:none" />
+    <rect
+       ry="24.043171"
+       style="fill:#00bbf2;fill-opacity:1;stroke:none"
+       id="rect4099"
+       width="48.086342"
+       height="48.086342"
+       x="76.060707"
+       y="3.9720879" />
+    <rect
+       ry="24.043171"
+       y="76.101601"
+       x="76.060707"
+       height="48.086342"
+       width="48.086342"
+       id="rect4097"
+       style="fill:#f03916;fill-opacity:1;stroke:none" />
+    <rect
+       ry="24.043171"
+       y="40.036846"
+       x="3.9312057"
+       height="48.086342"
+       width="48.086342"
+       id="rect4101"
+       style="fill:#892ca0;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

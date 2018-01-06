@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="500"
    height="500"
    sodipodi:docname="myunity.svg">
@@ -39,27 +39,30 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="135.3118"
+     inkscape:cx="205.9661"
      inkscape:cy="334.49785"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <rect
-     style="fill:#00bbf2;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     id="rect2982"
-     width="450"
-     height="450"
-     x="25"
-     y="25"
-     ry="53.793991" />
-  <path
-     style="fill:#8dd35f;fill-opacity:1;stroke:none"
-     d="m 142.61863,385.05933 -51.499991,0 68.499991,-253.5 51.50002,0.5 42.49998,114.00001 43.50001,-115 49.49999,0.49999 69.50001,253.5 -50.5,0 -48,-170 -38.50001,98 -0.49999,72.49999 -50.49999,0 0,-74.99999 -38.50001,-98.5 z"
-     id="path2995"
-     inkscape:connector-curvature="0" />
+  <g
+     id="g4134">
+    <rect
+       ry="53.793991"
+       y="25"
+       x="25"
+       height="450"
+       width="450"
+       id="rect2982"
+       style="fill:#00bbf2;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2995"
+       d="m 142.61863,385.05933 -51.499991,0 68.499991,-253.5 51.50002,0.5 42.49998,114.00001 43.50001,-115 49.49999,0.49999 69.50001,253.5 -50.5,0 -48,-170 -38.50001,98 -0.49999,72.49999 -50.49999,0 0,-74.99999 -38.50001,-98.5 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

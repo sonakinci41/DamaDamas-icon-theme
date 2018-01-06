@@ -40,16 +40,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="708"
+     inkscape:window-height="715"
      id="namedview14"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:zoom="0.43457604"
-     inkscape:cx="47.74288"
+     inkscape:cx="18.979214"
      inkscape:cy="452.73964"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-global="false"
@@ -106,7 +106,7 @@
     </linearGradient>
   </defs>
   <g
-     id="g4178">
+     id="g4161">
     <path
        d="m 41.333661,400.80175 -21.45803,0 0,-26.46543 21.94396,0 0,-5.30671 c 0,-29.0557 11.83787,-39.17881 35.18889,-39.17881 6.32463,0 13.32326,1.12457 17.05239,1.87552 l -1.78318,23.24365 c -2.43188,-0.93736 -6.99856,-1.50011 -11.37646,-1.50011 -7.45919,0 -10.37857,5.99845 -10.37857,15.55975 l 0,5.30764 22.89044,0 0,26.46544 -22.89044,0 0,71.88551 -29.189,0 0,-71.88645 z"
        inkscape:connector-curvature="0"
@@ -147,7 +147,7 @@
        d="m 493.3283,399.8766 c -3.43428,-1.11156 -6.86949,-1.11156 -10.47351,-1.11156 -14.42325,0 -22.49499,11.31932 -22.49499,30.24961 l 0,43.67262 -30.90707,0 0,-99.53373 28.15965,0 0,17.816 0.34421,0 c 5.32159,-12.24907 13.04947,-20.04278 26.44373,-20.04278 3.60316,0 7.38137,0.55621 10.47531,1.11242 l -1.54697,27.83742 z"
        inkscape:connector-curvature="0"
        id="path2419"
-       style="fill:#aa0044;fill-opacity:1" />
+       style="fill:#f03916;fill-opacity:1" />
     <path
        d="m 134.85462,264.38334 a 107.79281,107.79281 0 1 1 0,-215.585614 107.79281,107.79281 0 0 1 0,215.585614 z"
        id="path3732"
@@ -156,7 +156,7 @@
     <path
        d="m 379.18499,264.38334 a 107.79281,107.79281 0 1 1 0,-215.585614 107.79281,107.79281 0 0 1 0,215.585614 z"
        id="path3734"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#aa0044;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f03916;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

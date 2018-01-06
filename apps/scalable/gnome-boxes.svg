@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
    sodipodi:docname="gnome-boxes.svg"
@@ -48,41 +48,44 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="959"
-     inkscape:window-height="768"
+     inkscape:window-height="711"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.53309222"
-     inkscape:cx="-64.597065"
+     inkscape:cx="212.09052"
      inkscape:cy="177.08729"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:document-units="px" />
-  <rect
-     style="fill:#cd9c6d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.99781251"
-     id="rect2985"
-     width="450"
-     height="449.9866"
-     x="31"
-     y="31.013393"
-     ry="50.526115" />
-  <rect
-     style="fill:#e3c4a9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     id="rect3755"
-     width="112.35844"
-     height="67.027763"
-     x="47.909771"
-     y="358.88748"
-     ry="3.3671236" />
-  <rect
-     style="fill:#e3c4a9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     id="rect3755-4"
-     width="76.717323"
-     height="449.85419"
-     x="214.16275"
-     y="31.000004"
-     ry="0" />
+  <g
+     id="g4136">
+    <rect
+       ry="50.526115"
+       y="31.013393"
+       x="31"
+       height="449.9866"
+       width="450"
+       id="rect2985"
+       style="fill:#c87137;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.99781251" />
+    <rect
+       ry="3.3671236"
+       y="358.88748"
+       x="47.909771"
+       height="67.027763"
+       width="112.35844"
+       id="rect3755"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       ry="0"
+       y="31.000004"
+       x="214.16275"
+       height="449.85419"
+       width="76.717323"
+       id="rect3755-4"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
 </svg>

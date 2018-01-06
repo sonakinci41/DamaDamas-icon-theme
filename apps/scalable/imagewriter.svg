@@ -19,18 +19,6 @@
   <defs
      id="defs5455">
     <linearGradient
-       id="linearGradient4303"
-       inkscape:collect="always">
-      <stop
-         id="stop4305"
-         offset="0"
-         style="stop-color:#c6cdd1;stop-opacity:1" />
-      <stop
-         id="stop4307"
-         offset="1"
-         style="stop-color:#e0e5e7;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4159"
        id="linearGradient4403"
@@ -40,16 +28,6 @@
        y2="515.79797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(3.169972,0,0,2.8177528,-847.50456,-994.54687)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4303"
-       id="linearGradient4199"
-       x1="408.57144"
-       y1="525.79797"
-       x2="408.57144"
-       y2="503.798"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8177528,0,0,2.8177528,-703.59786,-994.54687)" />
     <linearGradient
        id="linearGradient4159">
       <stop
@@ -144,8 +122,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.458753"
-     inkscape:cx="-6.2784709"
-     inkscape:cy="108.91033"
+     inkscape:cx="-45.027842"
+     inkscape:cy="107.73214"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -267,7 +245,7 @@
      id="layer1"
      transform="translate(-384.57143,-419.798)">
     <g
-       id="g4301">
+       id="g4255">
       <rect
          y="487.02188"
          x="402.57144"
@@ -288,16 +266,16 @@
          height="61.990551"
          width="73.261574"
          id="rect4191"
-         style="fill:url(#linearGradient4199);fill-opacity:1;stroke:none" />
+         style="fill:#ebebeb;fill-opacity:1;stroke:none" />
       <rect
          y="444.75568"
          x="422.29572"
          height="19.72427"
          width="19.72427"
          id="rect4259"
-         style="fill:#202224;fill-opacity:1;stroke:none" />
+         style="fill:#394050;fill-opacity:1;stroke:none" />
       <rect
-         style="fill:#202224;fill-opacity:1;stroke:none"
+         style="fill:#394050;fill-opacity:1;stroke:none"
          id="rect4261"
          width="19.72427"
          height="19.72427"
@@ -318,7 +296,7 @@
          id="rect4327"
          style="fill:#fdbc4a;fill-opacity:1;stroke:none" />
       <rect
-         style="fill:#5d6a7b;fill-opacity:1;stroke:none"
+         style="fill:#394050;fill-opacity:1;stroke:none"
          id="rect4180"
          width="90.168068"
          height="57.91748"

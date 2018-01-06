@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1220.4735"
-     inkscape:cy="-23.742034"
+     inkscape:zoom="0.35"
+     inkscape:cx="491.5024"
+     inkscape:cy="334.39511"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4240">
+       id="g4210">
       <rect
          ry="55.714287"
          y="560.93359"
@@ -61,7 +61,7 @@
          height="474.28571"
          width="465.71429"
          id="rect4233"
-         style="fill:#006680;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#004455;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="matrix(1.378838,0,0,1.378838,244.80661,-209.77736)"
          id="g4227">
@@ -89,9 +89,9 @@
       </g>
       <path
          id="path4235"
-         transform="translate(0,540.36218)"
-         d="M 75.714844 20.572266 C 44.849129 20.572266 20 45.419441 20 76.285156 L 20 141.72852 L 342.42383 494.85742 L 430 494.85742 C 460.86571 494.85742 485.71484 470.00829 485.71484 439.14258 L 485.71484 350.02539 L 163.92188 20.572266 L 75.714844 20.572266 z "
-         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         d="M 75.714844,560.93445 C 44.849129,560.93445 20,585.78162 20,616.64734 l 0,65.44336 322.42383,353.1289 87.57617,0 c 30.86571,0 55.71484,-24.8491 55.71484,-55.71484 l 0,-89.11719 -321.79296,-329.45312 -88.207036,0 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <g
          transform="matrix(1.378838,0,0,1.378838,126.62049,-288.56811)"
          id="g4209">

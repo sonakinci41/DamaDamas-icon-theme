@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 144.49777 144.49779"
-   sodipodi:docname="ejecter.svg">
+   sodipodi:docname="usermount.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -48,7 +48,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="56.158134"
+     inkscape:cx="377.89172"
      inkscape:cy="273.81772"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -62,9 +62,9 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:window-width="1366"
-     inkscape:window-height="708"
+     inkscape:window-height="715"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -84,7 +84,7 @@
      id="layer1"
      transform="translate(38.119153,-266.89382)">
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f03916;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        id="rect3156"
        inkscape:connector-curvature="0"
        d="m 34.245849,294.32198 a 4.3727883,3.1117537 0 0 0 -3.217774,1.56013 l -45.536376,56.16478 a 4.3727883,3.1117537 0 0 0 -0.58505,1.46263 4.3727883,3.1117537 0 0 0 4.387874,3.21777 l 91.072752,0 a 4.3727883,3.1117537 0 0 0 3.802824,-4.6804 L 38.633723,295.88211 a 4.3727883,3.1117537 0 0 0 -4.387874,-1.56013 z m -43.0986686,74.88637 c -3.4572544,0 -6.2405314,2.78328 -6.2405314,6.24053 l 0,12.48107 c 0,3.45725 2.783277,6.24053 6.2405314,6.24053 l 87.3674366,0 c 3.457254,0 6.240531,-2.78328 6.240531,-6.24053 l 0,-12.48107 c 0,-3.45725 -2.783277,-6.24053 -6.240531,-6.24053 l -87.3674366,0 z" />

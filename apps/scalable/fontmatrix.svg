@@ -13,7 +13,7 @@
    height="500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="fontmatrix.svg">
   <metadata
      id="metadata11">
@@ -43,7 +43,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:zoom="0.6145833"
-     inkscape:cx="211.46847"
+     inkscape:cx="-69.209511"
      inkscape:cy="211.81344"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -94,7 +94,7 @@
   <defs
      id="defs4" />
   <g
-     id="g994">
+     id="g4183">
     <rect
        ry="49.008282"
        y="25"
@@ -108,7 +108,7 @@
        cy="253.62323"
        cx="250.80917"
        id="path847"
-       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.01025021" />
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.01025021" />
     <g
        id="g971">
       <g
@@ -212,7 +212,7 @@
        id="g845">
       <path
          style="fill:#fed9af;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 416.78554,165.0471 15.6762,7.76619 V 142.3238 c 0,0 -0.12543,-6.46989 -1.72582,-9.63583 -1.60039,-3.16594 -5.04944,-6.37027 -7.91001,-8.34146 -2.86057,-1.97119 -5.48039,-2.61628 -8.6291,-3.59546 -3.14871,-0.97918 -10.2111,-2.15728 -10.2111,-2.15728 l 0.43145,15.6762 c 0,0 4.36032,0.22343 6.18419,0.86291 1.82387,0.63948 3.55063,1.40233 4.60219,2.73255 1.05156,1.33022 1.43818,4.60219 1.43818,4.60219 z"
+         d="m 416.78554,165.0471 15.6762,7.76619 0,-30.48949 c 0,0 -0.12543,-6.46989 -1.72582,-9.63583 -1.60039,-3.16594 -5.04944,-6.37027 -7.91001,-8.34146 -2.86057,-1.97119 -5.48039,-2.61628 -8.6291,-3.59546 -3.14871,-0.97918 -10.2111,-2.15728 -10.2111,-2.15728 l 0.43145,15.6762 c 0,0 4.36032,0.22343 6.18419,0.86291 1.82387,0.63948 3.55063,1.40233 4.60219,2.73255 1.05156,1.33022 1.43818,4.60219 1.43818,4.60219 z"
          id="path841"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccczzzcczzcc" />

@@ -13,7 +13,7 @@
    inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
-   sodipodi:docname="bazaar.svg">
+   sodipodi:docname="bazaar-explorer.svg">
   <metadata
      id="metadata76">
     <rdf:RDF>
@@ -40,8 +40,8 @@
      id="namedview74"
      showgrid="false"
      inkscape:zoom="0.30729167"
-     inkscape:cx="46.324296"
-     inkscape:cy="429.76235"
+     inkscape:cx="-124.52316"
+     inkscape:cy="299.59286"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -95,7 +95,7 @@
      id="g33"
      transform="translate(0,452)" />
   <g
-     id="g4158">
+     id="g4147">
     <rect
        transform="matrix(0.68145507,0.73185996,-0.73185996,0.68145507,0,0)"
        ry="19.279545"
@@ -105,7 +105,7 @@
        height="310.8826"
        width="310.8826"
        id="rect2988"
-       style="fill:#faec6d;fill-opacity:1;stroke:#394050;stroke-width:27.38301277;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ffcc00;fill-opacity:1;stroke:#394050;stroke-width:27.38301277;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccccccccccc"
        inkscape:connector-curvature="0"

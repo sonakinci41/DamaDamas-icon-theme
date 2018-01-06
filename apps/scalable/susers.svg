@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.69999999"
-     inkscape:cx="484.95813"
+     inkscape:cx="238.52956"
      inkscape:cy="271.79915"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="708"
+     inkscape:window-height="715"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4154">
+       id="g4148">
       <rect
          transform="matrix(0.68145507,0.73185996,-0.73185996,0.68145507,0,0)"
          ry="20.358524"
@@ -63,7 +63,7 @@
          height="328.28113"
          width="328.28113"
          id="rect2988"
-         style="fill:#faec6d;fill-opacity:1;stroke:#394050;stroke-width:28.91550255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffcc00;fill-opacity:1;stroke:#394050;stroke-width:28.91550255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="zccczcccccccczcccz"
          inkscape:connector-curvature="0"

@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.999999"
-     inkscape:cx="7.8233583"
-     inkscape:cy="18.807656"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="-20.180416"
+     inkscape:cy="24.318129"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,9 +35,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="697"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -47,54 +47,6 @@
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
-    <sodipodi:guide
-       position="4.2167969e-05,32.000026"
-       orientation="32,0"
-       id="guide4625" />
-    <sodipodi:guide
-       position="4.2167969e-05,2.6367188e-05"
-       orientation="0,31.999969"
-       id="guide4627" />
-    <sodipodi:guide
-       position="32.000012,2.6367188e-05"
-       orientation="-32,0"
-       id="guide4629" />
-    <sodipodi:guide
-       position="32.000012,32.000026"
-       orientation="0,-31.999969"
-       id="guide4631" />
-    <sodipodi:guide
-       position="2.0000422,30.000026"
-       orientation="28,0"
-       id="guide4633" />
-    <sodipodi:guide
-       position="2.0000422,2.0000264"
-       orientation="0,27.999969"
-       id="guide4635" />
-    <sodipodi:guide
-       position="30,17"
-       orientation="-28,0"
-       id="guide4637" />
-    <sodipodi:guide
-       position="30.000012,30.000026"
-       orientation="0,-27.999969"
-       id="guide4639" />
-    <sodipodi:guide
-       position="9.0000155,9.000013"
-       orientation="-14.000027,0"
-       id="guide4266" />
-    <sodipodi:guide
-       position="9.0000155,23.00004"
-       orientation="0,13.999992"
-       id="guide4268" />
-    <sodipodi:guide
-       position="23.000008,23.00004"
-       orientation="14.000027,0"
-       id="guide4270" />
-    <sodipodi:guide
-       position="23.000008,9.000013"
-       orientation="0,-13.999992"
-       id="guide4272" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -113,17 +65,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-384.57143,-515.798)">
-    <ellipse
-       style="opacity:1;fill:#6c7a89;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="path4159"
-       cx="400.57144"
-       cy="531.79797"
-       rx="13.999979"
-       ry="14.000013" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-       d="m 398.28572,523.79801 0,6.85714 6.85714,0 0,3.42857 3.42857,-3.42857 0,-6.85714 -10.28571,0 z m 1.14285,1.14286 8,0 0,4.57143 -8,0 0,-4.57143 z m -2.85714,5.71428 -0.57143,0.45759 -2.28571,1.90402 0,-0.0759 -1.14286,0 0,0.57143 0,3.42857 0,0.57143 1.14286,0 0,-0.0759 2.28571,1.90402 0.57143,0.45759 0.57143,0 0,-9.14286 -0.57143,0 z"
-       id="path4147"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g4158">
+      <ellipse
+         ry="14.000013"
+         rx="13.999979"
+         cy="531.79797"
+         cx="400.57144"
+         id="path4159"
+         style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4147"
+         d="m 398.28572,523.79801 0,6.85714 6.85714,0 0,3.42857 3.42857,-3.42857 0,-6.85714 -10.28571,0 z m 1.14285,1.14286 8,0 0,4.57143 -8,0 0,-4.57143 z m -2.85714,5.71428 -0.57143,0.45759 -2.28571,1.90402 0,-0.0759 -1.14286,0 0,0.57143 0,3.42857 0,0.57143 1.14286,0 0,-0.0759 2.28571,1.90402 0.57143,0.45759 0.57143,0 0,-9.14286 -0.57143,0 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
+    </g>
   </g>
 </svg>

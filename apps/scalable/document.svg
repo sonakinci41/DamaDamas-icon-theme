@@ -13,7 +13,7 @@
    width="512"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="document.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="715"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="0.28726213"
-     inkscape:cx="540.73151"
-     inkscape:cy="274.61306"
+     inkscape:cx="-447.44142"
+     inkscape:cy="516.81532"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
@@ -104,7 +104,7 @@
     </linearGradient>
   </defs>
   <g
-     id="g890">
+     id="g4165">
     <rect
        rx="31.491711"
        ry="35.583622"
@@ -113,7 +113,7 @@
        height="450"
        width="381.21548"
        id="rect3003"
-       style="fill:#a05a2c;fill-opacity:1;stroke:none" />
+       style="fill:#c87137;fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="cccczcczcczcczc"
        inkscape:connector-curvature="0"
@@ -126,13 +126,13 @@
        height="11.313708"
        width="262.82614"
        id="rect829-6"
-       style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-width:0.91974908;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.91974908;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path3868"
-       d="M 283.3363,410.17303 315.75041,382.11838 289.1789,368.41087 z"
-       style="fill:#666666;stroke:none" />
+       d="M 283.3363,410.17303 315.75041,382.11838 289.1789,368.41087 Z"
+       style="fill:#b3b3b3;stroke:none;fill-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
@@ -151,31 +151,31 @@
        height="11.313708"
        width="234.10674"
        id="rect829-3-7"
-       style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-width:0.86804456;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.86804456;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3888-6"
        d="m 418.0797,145.52352 17.96872,-31.24029 25.72286,15.80652 -17.8196,30.56928 z"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        id="path3803"
        d="m 411.15317,162.1592 -17.36476,6.94591 -34.72952,60.42937"
-       style="fill:none;stroke:#394050;stroke-width:6.38494539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#394050;stroke-width:6.38494539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="130.68629"
        x="96.601654"
        height="11.313708"
        width="310.69183"
        id="rect829-3"
-       style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="398.41486"
        x="95.502769"
        height="11.313708"
        width="189.46106"
        id="rect829-3-7-5"
-       style="opacity:1;fill:#394050;fill-opacity:1;stroke:none;stroke-width:0.78089935;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.78089935;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

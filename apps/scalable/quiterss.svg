@@ -43,8 +43,8 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:zoom="0.43457602"
-     inkscape:cx="-100.36108"
-     inkscape:cy="401.33092"
+     inkscape:cx="239.05019"
+     inkscape:cy="309.28719"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -86,7 +86,7 @@
   <defs
      id="defs4" />
   <g
-     id="g4152">
+     id="g4147">
     <rect
        ry="14.838787"
        y="25"
@@ -116,7 +116,7 @@
        sodipodi:cx="400.45013"
        sodipodi:sides="5"
        id="path4131"
-       style="opacity:1;fill:#f4d647;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:none"
        sodipodi:type="star" />
   </g>
 </svg>

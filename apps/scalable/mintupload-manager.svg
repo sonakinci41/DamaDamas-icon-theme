@@ -43,7 +43,7 @@
      id="namedview4"
      showgrid="true"
      inkscape:zoom="0.23046875"
-     inkscape:cx="-506.41766"
+     inkscape:cx="480.70098"
      inkscape:cy="404.26533"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -54,7 +54,7 @@
        id="grid4134" />
   </sodipodi:namedview>
   <g
-     id="g4137">
+     id="g4142">
     <rect
        ry="224.54237"
        y="32.033897"
@@ -66,7 +66,7 @@
     <path
        id="path3836"
        d="m 256,76 c -99.41124,0 -180,80.58876 -180,180 0,99.41124 80.58876,180 180,180 99.41124,0 180,-80.58876 180,-180 C 436,156.58876 355.41124,76 256,76 Z m 0,24 c 86.1564,0 155.99997,69.8436 155.99997,156 0,86.1564 -69.84357,156 -155.99997,156 -86.1564,0 -156,-69.8436 -156,-156 0,-86.1564 69.8436,-156 156,-156 z"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.27450982;stroke:none"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.2745098;stroke:none"
        inkscape:connector-curvature="0" />
     <path
        id="path3917"
@@ -76,7 +76,7 @@
     <polygon
        style="fill:#ffffff"
        transform="matrix(0,-6.4918953,-6.4918953,0,359.87357,359.87033)"
-       points="16,30 30,16 16,2.001 16,10 2,10 2,22 16,22 "
+       points="16,2.001 16,10 2,10 2,22 16,22 16,30 30,16 "
        id="polygon3780" />
   </g>
 </svg>

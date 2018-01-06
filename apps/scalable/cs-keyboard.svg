@@ -13,7 +13,7 @@
    id="svg2"
    height="512"
    width="512"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="cs-keyboard.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="715"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="0.82617192"
-     inkscape:cx="340.14685"
+     inkscape:cx="131.35254"
      inkscape:cy="174.10824"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -158,27 +158,30 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228537999999988"
-     id="rect4444"
-     width="450"
-     height="450"
-     x="31"
-     y="31"
-     rx="54.3265"
-     ry="66.489136" />
-  <rect
-     style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="rect4444-3"
-     width="350"
-     height="350"
-     x="79.694481"
-     y="82.305519"
-     rx="42.253944"
-     ry="51.713772" />
-  <path
-     style="fill:#394050;fill-opacity:1;stroke:none"
-     d="M 251.24999,159.50037 235.3418,175.40851 150,260.75011 l 0,22.49997 50.625,0 0,56.24996 0,22.49996 22.49999,0 56.24999,0 22.49999,0 0,-22.49996 0,-56.24996 50.625,0 0,-22.49997 -85.34179,-85.3416 -15.90819,-15.90814 z m 0,31.81631 69.43358,69.43343 -41.30859,0 0,22.49997 0,56.24996 -56.24999,0 0,-56.24996 0,-22.49997 -41.30859,0 69.43359,-69.43343 z"
-     id="rect4125"
-     inkscape:connector-curvature="0" />
+  <g
+     id="g4156">
+    <rect
+       ry="66.489136"
+       rx="54.3265"
+       y="31"
+       x="31"
+       height="450"
+       width="450"
+       id="rect4444"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538" />
+    <rect
+       ry="51.713772"
+       rx="42.253944"
+       y="82.305519"
+       x="79.694481"
+       height="350"
+       width="350"
+       id="rect4444-3"
+       style="fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4125"
+       d="M 251.24999,159.50037 235.3418,175.40851 150,260.75011 l 0,22.49997 50.625,0 0,56.24996 0,22.49996 22.49999,0 56.24999,0 22.49999,0 0,-22.49996 0,-56.24996 50.625,0 0,-22.49997 -85.34179,-85.3416 -15.90819,-15.90814 z m 0,31.81631 69.43358,69.43343 -41.30859,0 0,22.49997 0,56.24996 -56.24999,0 0,-56.24996 0,-22.49997 -41.30859,0 69.43359,-69.43343 z"
+       style="fill:#394050;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

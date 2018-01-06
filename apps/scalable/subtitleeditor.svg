@@ -10,10 +10,10 @@
    viewBox="0 0 500 500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
-   sodipodi:docname="aegisub.svg">
+   sodipodi:docname="subtitle-compozer.svg">
   <metadata
      id="metadata65">
     <rdf:RDF>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="715"
      id="namedview63"
      showgrid="false"
      inkscape:zoom="0.61458334"
-     inkscape:cx="248.04898"
+     inkscape:cx="-32.628983"
      inkscape:cy="323.24999"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -94,26 +94,29 @@
   <g
      id="g33"
      transform="translate(0,452)" />
-  <rect
-     style="fill:#484537;fill-opacity:1;stroke:none"
-     id="rect2998"
-     width="450"
-     height="294.10715"
-     x="25"
-     y="49.689491"
-     ry="51.428574" />
-  <path
-     style="fill:#484537;stroke:none"
-     d="M 99.254238,331.59322 48.813559,465.83051 224.54237,335.66102 z"
-     id="path3768"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
-  <rect
-     style="fill:#e3e2db;fill-opacity:1;stroke:none"
-     id="rect2998-3"
-     width="389.90823"
-     height="242.04951"
-     x="55.388878"
-     y="78.045143"
-     ry="42.3256" />
+  <g
+     id="g4145">
+    <rect
+       ry="51.428574"
+       y="49.689491"
+       x="25"
+       height="294.10715"
+       width="450"
+       id="rect2998"
+       style="fill:#ff6600;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3768"
+       d="M 99.254238,331.59322 48.813559,465.83051 224.54237,335.66102 z"
+       style="fill:#ff6600;stroke:none" />
+    <rect
+       ry="42.3256"
+       y="78.045143"
+       x="55.388878"
+       height="242.04951"
+       width="389.90823"
+       id="rect2998-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

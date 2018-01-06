@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
    viewBox="0 0 511.99999 511.99999"
@@ -40,30 +40,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="715"
      id="namedview4"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.41113281"
-     inkscape:cx="-201.17859"
+     inkscape:cx="-134.29023"
      inkscape:cy="182.93961"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
-     id="g4508"
-     transform="matrix(0.9192399,0,0,0.9192399,558.67024,62.317237)">
+     id="g4137">
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path4489"
-       d="m -328.2114,470.45751 222.15588,-126.6983 0.5786,-258.024836 -225.62713,-127.27683 -220.42033,129.01242 V 343.18068 Z"
-       style="fill:#e6e6e6;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="M 256.96523,494.78055 461.17977,378.31442 461.71165,141.12769 254.30619,24.129754 51.687024,142.72312 l 0,235.05949 z"
+       style="fill:#ebebeb;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4487"
-       d="m -448.25659,324.67693 v -26.6032 l 67.1402,-75.53013 67.1402,-75.53014 -67.1402,-0.27462 -67.1402,-0.27462 V 112.33884 78.213464 h 119.46666 119.46666 v 26.530996 26.531 l -67.19631,75.60233 -67.1963,75.60233 67.1963,0.27462 67.19631,0.27462 v 34.12538 34.12537 h -119.46666 -119.46666 z"
+       d="m 146.6149,360.77323 0,-24.45473 61.71795,-69.43031 61.71795,-69.43031 -61.71795,-0.25245 -61.71795,-0.25244 0,-31.36941 0,-31.36941 109.81852,0 109.81852,0 0,24.38835 0,24.38836 -61.76953,69.49668 -61.76952,69.49667 61.76952,0.25245 61.76953,0.25244 0,31.36941 0,31.3694 -109.81852,0 -109.81852,0 z"
        style="fill:#f03916;fill-opacity:1;stroke-width:1.0666666" />
   </g>
 </svg>
