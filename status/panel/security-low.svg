@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="11.840459"
+     inkscape:cx="-3.5613267"
      inkscape:cy="10.252532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,23 +53,23 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <g
-       id="g4136">
+       id="g4140">
       <path
          sodipodi:nodetypes="cczczcc"
          inkscape:connector-curvature="0"
          id="path3778-5"
          d="m 10.821606,1031.9874 c -1.8667212,1.1539 -10.20013316,1.6779 -10.20013316,1.6779 0,0 1.19417096,9.834 4.31288996,13.6133 3.118719,3.7794 5.8872432,3.4342 5.8872432,3.4342 0,0 2.551779,0.5691 5.887242,-3.4342 3.335463,-4.0032 4.669679,-13.566 4.669679,-13.566 0,0 -8.69957,-0.4177 -10.556921,-1.7252 z"
-         style="fill:#faec6d;fill-opacity:1;stroke:none;stroke-width:1.24294567;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.24294567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path2984"
          d="m 7.3779198,1037.7928 7.0372992,6.839"
-         style="fill:none;stroke:#394050;stroke-width:1.47181058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#394050;stroke-width:1.47181058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path2984-3"
          d="m 14.365661,1037.7432 -6.8390652,7.0373"
-         style="fill:none;stroke:#394050;stroke-width:1.47181058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#394050;stroke-width:1.47181058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
