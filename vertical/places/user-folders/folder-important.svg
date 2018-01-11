@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="-428.74674"
-     inkscape:cy="49.624427"
+     inkscape:cx="-898.40123"
+     inkscape:cy="-323.51719"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4162">
+       id="g4150">
       <g
          id="g4408"
          transform="translate(1.37e-4,-3.812793e-4)">
@@ -87,7 +87,7 @@
          inkscape:connector-curvature="0"
          id="path3778-5"
          d="m 76.934822,917.48306 212.795968,-1.03203 c 0,0 8.14351,1.07982 10.37265,-4.12835 2.22915,-5.2081 -2.81992,-12.38491 -2.81992,-12.38491 L 194.07564,732.74111 c 0,0 -3.74978,-9.49606 -9.80471,-9.83066 -6.05492,-0.33463 -10.74302,9.52838 -10.74302,9.52838 L 73.322572,897.35758 c 0,0 -7.84597,10.98523 -5.94744,14.9338 1.89852,3.94865 9.55969,5.19168 9.55969,5.19168 z"
-         style="fill:#ffcc00;fill-opacity:1;stroke:#394050;stroke-width:13.93588448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#ffb800;stroke-width:13.93588448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:open="true"
          sodipodi:end="6.2784904"
@@ -98,14 +98,14 @@
          sodipodi:cy="882.50604"
          sodipodi:cx="184.39847"
          id="path2997-3"
-         style="fill:#394050;fill-opacity:1;stroke:none"
+         style="fill:#ffb800;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <path
          sodipodi:nodetypes="ccczcc"
          inkscape:connector-curvature="0"
          id="path2999-5"
          d="m 180.64821,862.34835 6.79732,0 c 0,0 9.32308,-63.97943 9.61004,-64.22328 0,0 -1.28502,-12.17098 -12.42274,-11.95396 -11.13769,0.21703 -12.42272,11.95396 -12.42272,11.95396 z"
-         style="fill:#394050;fill-opacity:1;stroke:none" />
+         style="fill:#ffb800;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

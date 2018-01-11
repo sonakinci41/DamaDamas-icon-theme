@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-170.6103"
-     inkscape:cy="391.23165"
+     inkscape:cx="1090.3923"
+     inkscape:cy="-98.068601"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4155">
+       id="g3352">
       <g
          id="g4408"
          transform="translate(1.37e-4,-3.812793e-4)">
@@ -83,22 +83,23 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
+         style="fill:#ffb800;fill-opacity:1"
          transform="matrix(0.79937509,0,0,0.79937509,-120.3896,139.70799)"
          id="g4190">
         <path
-           style="fill:#00bbf2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#ffb800;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="m 305.20897,716.29583 0,204.12903 c -8.66636,-8.07428 -19.96756,-13.29483 -31.84948,-13.29314 -24.99165,0 -47.69622,22.72874 -47.69622,47.70815 0,24.97834 22.70457,47.70853 47.69622,47.71043 24.99183,0 47.7586,-22.72835 47.7586,-47.71043 l 0,-168.81352 0,-68.92312 0,-0.80578 -0.0637,0 -15.84693,0 z"
            id="path4112"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccscscccccc" />
         <path
-           style="fill:#00bbf2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#ffb800;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="m 462.39582,698.02641 0,204.12903 c -8.66636,-8.07428 -19.96756,-13.29483 -31.84948,-13.29314 -24.99165,0 -47.69622,22.72874 -47.69622,47.70815 0,24.97834 22.70457,47.70853 47.69622,47.71043 24.99183,0 47.7586,-22.72835 47.7586,-47.71043 l 0,-168.81352 0,-68.92312 0,-0.80578 -0.0637,0 -15.84693,0 z"
            id="path4112-3"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccscscccccc" />
         <rect
-           style="fill:#00bbf2;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="fill:#ffb800;fill-opacity:1;stroke:none;stroke-opacity:1"
            id="rect4188"
            width="171.4557"
            height="18.468454"

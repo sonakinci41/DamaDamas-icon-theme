@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="82.746884"
-     inkscape:cy="382.83285"
+     inkscape:zoom="0.7"
+     inkscape:cx="318.93079"
+     inkscape:cy="216.18309"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4152">
+       id="g4146">
       <g
          id="g4285"
          transform="translate(1.37e-4,-3.812793e-4)">
@@ -87,7 +87,7 @@
          inkscape:connector-curvature="0"
          id="path2997"
          d="M 171.20346,946.49115 60,827.0504 l 70.017,0 0,-131.7967 82.37292,0 0,131.7967 70.01699,0 z"
-         style="fill:#00bbf2;fill-opacity:1;stroke:none" />
+         style="fill:#ffb800;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

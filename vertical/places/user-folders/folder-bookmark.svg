@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="233.22192"
-     inkscape:cy="161.28805"
+     inkscape:zoom="0.7"
+     inkscape:cx="149.34148"
+     inkscape:cy="194.52365"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4167">
+       id="g4146">
       <path
          sodipodi:nodetypes="sccssssssss"
          inkscape:connector-curvature="0"
@@ -91,7 +91,7 @@
          inkscape:connector-curvature="0"
          id="path3855"
          d="m 354.35326,676.02736 0,166.40899 42.85714,-39.62118 42.85715,39.62118 0,-166.40899 z"
-         style="fill:#f03916;stroke:none" />
+         style="fill:#ffb800;stroke:none;fill-opacity:1" />
     </g>
   </g>
 </svg>

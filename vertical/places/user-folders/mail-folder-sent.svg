@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="147.97754"
-     inkscape:cy="287.43338"
+     inkscape:cx="457.70998"
+     inkscape:cy="37.027191"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4164">
+       id="g3358">
       <g
          id="g4408"
          transform="translate(1.37e-4,-3.812793e-4)">
@@ -82,25 +82,11 @@
            style="opacity:1;fill:#ffb800;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0" />
       </g>
-      <g
-         id="g4160"
-         transform="matrix(0.60952381,0,0,0.60952381,43.439528,675.15385)">
-        <polygon
-           style="fill:#b3b3b3;fill-opacity:1"
-           points="0,44 28,44 56,44 56,5 0,5 "
-           id="polygon7"
-           transform="matrix(8.0357143,0,0,8.0357143,27.169525,56.428571)" />
-        <path
-           style="fill:#c3c3c3;fill-opacity:1"
-           d="m 275.99542,274.25268 c -13.15447,11.74821 -34.48929,11.74821 -47.65179,0 L 211.5731,259.44286 C 159.10792,306.26696 27.169525,410 27.169525,410 l 173.627675,0 102.75268,0 173.61965,0 c 0,0 -131.9384,-103.73304 -184.40358,-150.55714 l -16.77053,14.80982 z"
-           id="path9"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#ebebeb;fill-opacity:1"
-           d="M 27.169525,96.60714 228.34363,274.25268 c 13.15447,11.74821 34.48929,11.74821 47.65179,0 l 201.17411,-177.64554 -450.000005,0 z"
-           id="path11"
-           inkscape:connector-curvature="0" />
-      </g>
+      <path
+         id="rect4157"
+         d="m 60,733.72041 0,192.20398 224.238,0 0,-192.20398 -224.238,0 z m 27.341486,16.01702 169.554994,0 -84.7775,84.77749 -84.777494,-84.77749 z m -11.324471,11.32447 63.004305,63.00446 -63.004305,73.51548 0,-136.51994 z m 192.203965,0 0,136.55117 -63.0043,-73.54671 63.0043,-63.00446 z m -117.84377,74.3602 21.74177,21.7418 21.7418,-21.7418 63.8178,74.48531 -171.15043,0 63.84906,-74.48531 z"
+         style="fill:#ffb800;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

@@ -57,7 +57,7 @@ def degistir(metin,yrenk,listeKoordinat):
 		return metin
 
 def silinsinmi():
-	gelen = input("If you continue the DamaDamas icon theme board will be deleted and installed on your system.\nWould you like to do it?(Y) or (N)")
+	gelen = input("If you continue the DamaDamas icon theme board will be deleted and installed on your system.\nWould you like to do it?(Y) or (N)::")
 	if gelen == "Y":
 		sil =  True
 	elif gelen == "N":
