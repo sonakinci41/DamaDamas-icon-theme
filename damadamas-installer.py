@@ -179,9 +179,8 @@ if renk_degissin:
 		print("Change folder colors...")
 		sarkiKlasorAktar(url + "/DamaDamas-icon-theme/places/user-folders/",folder_colors.get("default")[0],dosya_rengi[0])
 		sarkiKlasorAktar(url + "/DamaDamas-icon-theme/places/user-folders/",folder_colors.get("default")[1],dosya_rengi[1])
-		for i in [url+"/DamaDamas-icon-theme/apps/scalable/folder-template.svg",url+"/DamaDamas-icon-theme/apps/scalable/folder_templates.svg",url+"/DamaDamas-icon-theme/apps/scalable/folder-templates.svg",url+"/DamaDamas-icon-theme/apps/scalable/folder-wine.svg",url+"/DamaDamas-icon-theme/apps/scalable/network-workgroup.svg",url+"/DamaDamas-icon-theme/apps/scalable/shares.svg",url+"/DamaDamas-icon-theme/mimetypes/file-types/inode-directory.svg"]:
-			tekliDegisiklik(i,folder_colors.get("default")[0],dosya_rengi[0])
-			tekliDegisiklik(i,folder_colors.get("default")[1],dosya_rengi[1])
+		tekliDegisiklik(url+"/DamaDamas-icon-theme/mimetypes/file-types/inode-directory.svg",folder_colors.get("default")[0],dosya_rengi[0])
+		tekliDegisiklik(url+"/DamaDamas-icon-theme/mimetypes/file-types/inode-directory.svg",folder_colors.get("default")[1],dosya_rengi[1])
 	if aksiyon_rengi:
 		print("Change actions colors...")
 		sarkiKlasorAktar(url + "/DamaDamas-icon-theme/actions/","394050",aksiyon_rengi)
