@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="text-plain.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.60666665"
+     inkscape:cx="410.53776"
+     inkscape:cy="304.24108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <g
+       id="g3352">
+      <g
+         id="g3356">
+        <path
+           style="fill:#f2f2f2;fill-rule:evenodd;stroke:#afafaf;stroke-width:5.03546047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 97.040974,1029.8357 336.888376,-1.1739 1.17377,-363.88639 -88.03697,-89.21086 -250.025176,0 z"
+           id="path3364"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#394050;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 97.041016,907.86724 0,121.96756 336.888674,-1.0485 0.4375,-120.91906 -337.326174,0 z"
+           id="rect4228"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="fill:#394050;fill-opacity:1;stroke:none"
+           id="rect2990-3"
+           width="276.15112"
+           height="11.27785"
+           x="126.6499"
+           y="-775.77173"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#394050;fill-opacity:1;stroke:none"
+           id="rect2990-3-7"
+           width="276.56522"
+           height="11.27785"
+           x="127.73244"
+           y="-726.93652"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#394050;fill-opacity:1;stroke:none"
+           id="rect2990-3-35"
+           width="189.36089"
+           height="11.27785"
+           x="127.73244"
+           y="-676.57263"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#394050;fill-opacity:1;stroke:none"
+           id="rect2990-3-2"
+           width="276.15112"
+           height="11.27785"
+           x="124.82326"
+           y="-872.95764"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#394050;fill-opacity:1;stroke:none"
+           id="rect2990-3-7-2"
+           width="276.56522"
+           height="11.27785"
+           x="125.90581"
+           y="-824.1225"
+           transform="scale(1,-1)" />
+      </g>
+      <g
+         id="flowRoot3341"
+         style="font-style:normal;font-weight:normal;font-size:109.73878479px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(77.120881,51.098903)">
+        <path
+           id="path3350"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"
+           d="m 143.60224,875.4172 20.73677,0 21.21903,59.04889 21.16543,-59.04889 20.73678,0 -29.63162,80 -24.59477,0 -29.63162,-80 z" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -148,6 +148,18 @@ def panel_rengi_secenekleri():
 	else:
 		panel_rengi = custom_aksiyon_rengi()
 
+def dikey_yatay():
+	global dikey_yatay_secim
+	gelen = input("\nThere are two versions of the DamaDamas icon theme, vertical and horizontal. Which one do you want to setup?\nOptions:\n[ ] horizontal\n[ ] vertical\n::")
+	if gelen == "horizontal":
+		dikey_yatay_secim = "dikey"
+	elif gelen == "vertical":
+		dikey_yatay_secim = "yatay"
+	else:
+		print("Cant understand\n====================================")
+		dikey_yatay()
+
+
 print("Welcome to the DamaDamas icon theme installer.\n\n")
 if os.getuid() != 0:
 	print("Damadamas icon theme installer will run as not root.\nThe icon will be installed in {}/.icons file.\n\n".format(os.path.expanduser("~")))
@@ -160,15 +172,20 @@ sil = False
 if os.path.exists(url+"/DamaDamas-icon-theme"):
 	silinsinmi()
 
+dikey_yatay()
+
 renk_degissinmi()
 
 print("Copying files. Please wait...")
 if not os.path.exists(url+"/DamaDamas-icon-theme"):
 	os.makedirs(url+"/DamaDamas-icon-theme")
-for dirs in os.listdir(os.getcwd()):
-	if dirs != "damadamas-installer.py":
-		print(os.getcwd()+"/"+dirs)
-		os.system("rsync --delete -axHAWX --numeric-ids " + os.getcwd()+"/"+dirs + " " + url + "/DamaDamas-icon-theme" + " --exclude /proc")
+if dikey_yatay_secim == "dikey":
+    kopyalanacaklar = ['mimetypes', 'categories', 'places', 'emblems', 'apps', 'extras', 'index.theme', 'devices', 'actions', 'status']
+else:
+    kopyalanacaklar = ['vertical/mimetypes', 'categories', 'vertical/places', 'emblems', 'apps', 'extras', 'index.theme', 'devices', 'actions', 'status']
+for dirs in kopyalanacaklar:
+	print(os.getcwd()+"/"+dirs)
+	os.system("rsync --delete -axHAWX --numeric-ids " + os.getcwd()+"/"+dirs + " " + url + "/DamaDamas-icon-theme" + " --exclude /proc")
 print("Complate.\n=====================================")
 
 if renk_degissin:
