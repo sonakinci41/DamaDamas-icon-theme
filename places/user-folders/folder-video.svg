@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="76.843479"
-     inkscape:cy="320.15136"
+     inkscape:zoom="0.5"
+     inkscape:cx="501.78877"
+     inkscape:cy="109.01698"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4143">
+       id="g4171">
       <path
          inkscape:connector-curvature="0"
          id="path2996"
@@ -75,6 +75,20 @@
          id="path3768-3"
          d="m 120.13709,965.53087 0.582,-380.62308"
          style="fill:none;stroke:#ffb800;stroke-width:2.30457258px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="781.36218"
+         x="248"
+         height="220"
+         width="44"
+         id="rect4144"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="779.36218"
+         x="430"
+         height="220"
+         width="44"
+         id="rect4144-3"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="rect4197-3"
          d="m 243.11688,773.47906 0,233.76624 233.76623,0 0,-233.76624 -233.76623,0 z m 17.53247,17.53246 17.53247,0 0,17.53247 -17.53247,0 0,-17.53247 z m 181.16883,0 17.53247,0 0,17.53247 -17.53247,0 0,-17.53247 z m -181.16883,43.83117 17.53247,0 0,17.53247 -17.53247,0 0,-17.53247 z m 181.16883,0 17.53247,0 0,17.53247 -17.53247,0 0,-17.53247 z m -181.16883,46.75325 17.53247,0 0,17.53247 -17.53247,0 0,-17.53247 z m 181.16883,0 17.53247,0 0,17.53247 -17.53247,0 0,-17.53247 z m -181.16883,46.75325 17.53247,0 0,17.53251 -17.53247,0 0,-17.53251 z m 181.16883,0 17.53247,0 0,17.53251 -17.53247,0 0,-17.53251 z m -181.16883,43.83121 17.53247,0 0,17.5324 -17.53247,0 0,-17.5324 z m 181.16883,0 17.53247,0 0,17.5324 -17.53247,0 0,-17.5324 z"
