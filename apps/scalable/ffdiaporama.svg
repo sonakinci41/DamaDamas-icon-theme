@@ -29,8 +29,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="34.782637"
-     inkscape:cy="329.76554"
+     inkscape:cx="-88.126241"
+     inkscape:cy="234.36092"
      inkscape:window-x="39"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
@@ -79,7 +79,7 @@
     </clipPath>
   </defs>
   <g
-     id="g4158">
+     id="g4153">
     <rect
        transform="matrix(0.99999152,0.00411782,-0.00411782,0.99999152,0,0)"
        y="102.92981"
@@ -95,7 +95,7 @@
        height="287.51987"
        width="346.08871"
        id="rect2997-3"
-       style="fill:#00bbf2;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="matrix(0.99998687,-0.00512497,0.00512497,0.99998687,0,0)"
        y="148.7858"
@@ -103,7 +103,7 @@
        height="287.5199"
        width="346.08871"
        id="rect2997"
-       style="fill:#ffcc00;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#00bbf2;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:open="true"
        sodipodi:end="6.2784904"
@@ -122,7 +122,7 @@
        inkscape:connector-curvature="0"
        id="path3787"
        d="m 146.3344,323.79489 0.0745,106.36074 336.01484,-2.19265 -1.39228,-87.99968 c 0,0 -47.34936,17.2329 -88.41481,12.21872 -41.06544,-5.01416 -103.92827,-57.27819 -147.60803,-59.01285 -43.67974,-1.73462 -98.67424,30.62572 -98.67424,30.62572 z"
-       style="fill:#c87137;stroke:none;stroke-width:0.46588865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+       style="fill:#004455;fill-opacity:1;stroke:none;stroke-width:0.46588865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        transform="matrix(0.9794663,-0.20160794,0.20160794,0.9794663,0,0)"
        ry="28.284271"

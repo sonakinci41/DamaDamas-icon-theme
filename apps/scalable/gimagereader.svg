@@ -28,9 +28,9 @@
      inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="1523.4084"
-     inkscape:cy="202.57235"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="-310.29726"
+     inkscape:cy="590.11603"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -79,7 +79,7 @@
     </clipPath>
   </defs>
   <g
-     id="g4170">
+     id="g4153">
     <rect
        transform="matrix(0.99991031,-0.01339323,0.01339323,0.99991031,0,0)"
        y="122.85979"
@@ -103,9 +103,9 @@
        height="21.879444"
        width="304.30011"
        id="rect4151"
-       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4153-3"
        width="304.30011"
        height="21.879444"
@@ -113,7 +113,7 @@
        y="391.48618"
        transform="matrix(0.87751671,-0.47954606,0.50397335,0.8637192,0,0)" />
     <rect
-       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4153"
        width="304.30011"
        height="21.879444"

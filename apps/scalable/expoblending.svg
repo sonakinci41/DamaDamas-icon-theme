@@ -28,9 +28,9 @@
      inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="87.44023"
-     inkscape:cy="134.12521"
+     inkscape:zoom="0.25"
+     inkscape:cx="363.82909"
+     inkscape:cy="324.17798"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -87,7 +87,7 @@
        height="287.51987"
        width="346.08871"
        id="rect2997-3"
-       style="fill:#00bbf2;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="matrix(0.89137186,-0.45327278,0.45327278,0.89137186,0,0)"
        y="201.16292"
@@ -95,7 +95,7 @@
        height="287.5199"
        width="346.08871"
        id="rect2997"
-       style="fill:#ffcc00;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#00bbf2;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:open="true"
        sodipodi:end="6.2784904"
@@ -114,11 +114,11 @@
        inkscape:connector-curvature="0"
        id="path3787"
        d="m 115.22312,364.259 47.79051,95.01937 299.30696,-152.72892 -40.72958,-78.01912 c 0,0 -34.58295,36.64635 -73.53231,50.59127 -38.94934,13.94493 -118.57958,-4.55609 -158.39379,13.49272 -39.81417,18.04883 -74.44179,71.64468 -74.44179,71.64468 z"
-       style="fill:#c87137;stroke:none;stroke-width:0.46588865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+       style="fill:#004455;fill-opacity:1;stroke:none;stroke-width:0.46588865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <polygon
        style="fill:#45d03f;fill-opacity:1"
        transform="matrix(0,10.27761,-10.27761,0,501.74356,3.514521)"
-       points="16,2.001 16,10 2,10 2,22 16,22 16,30 30,16 "
+       points="2,10 2,22 16,22 16,30 30,16 16,2.001 16,10 "
        id="polygon3780" />
   </g>
 </svg>

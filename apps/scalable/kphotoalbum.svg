@@ -43,9 +43,9 @@
      inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.26757812"
-     inkscape:cx="288.05263"
-     inkscape:cy="-130.74719"
+     inkscape:zoom="0.37841261"
+     inkscape:cx="744.77994"
+     inkscape:cy="-82.423725"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -59,7 +59,7 @@
      id="path3783"
      inkscape:connector-curvature="0" />
   <g
-     id="g4208">
+     id="g4170">
     <rect
        transform="matrix(0.99991031,-0.01339323,0.01339323,0.99991031,0,0)"
        y="97.571754"
@@ -67,7 +67,7 @@
        height="287.51987"
        width="346.08871"
        id="rect2997-3"
-       style="fill:#00bbf2;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="matrix(0.89137186,-0.45327278,0.45327278,0.89137186,0,0)"
        y="179.08266"
@@ -75,7 +75,7 @@
        height="287.5199"
        width="346.08871"
        id="rect2997"
-       style="fill:#ffcc00;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#00bbf2;fill-opacity:1;stroke:#ffffff;stroke-width:11.18132782;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:open="true"
        sodipodi:end="6.2784904"
@@ -94,7 +94,7 @@
        inkscape:connector-curvature="0"
        id="path3787"
        d="m 116.27183,338.95464 47.79056,95.01937 299.3069,-152.72892 -40.7296,-78.01912 c 0,0 -34.5829,36.64635 -73.5323,50.59127 -38.9493,13.94493 -118.5796,-4.55609 -158.3938,13.49272 -39.8141,18.04883 -74.44176,71.64468 -74.44176,71.64468 z"
-       style="fill:#c87137;stroke:none;stroke-width:0.46588865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+       style="fill:#004455;fill-opacity:1;stroke:none;stroke-width:0.46588865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        id="g4146"
        transform="matrix(0.92597725,0,0,0.92597725,22.652522,99.524208)">
