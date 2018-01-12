@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="425.11428"
-     inkscape:cy="192.38196"
+     inkscape:zoom="0.7"
+     inkscape:cx="331.79425"
+     inkscape:cy="208.78765"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,20 +53,16 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4155">
+       id="g4143">
       <path
-         sodipodi:nodetypes="sccssssssss"
+         sodipodi:nodetypes="cccccsssscc"
          inkscape:connector-curvature="0"
          id="rect4150"
-         d="m 36.29097,615.00642 123.37071,0 29.62974,33.73269 284.91693,0 c 10.83509,0 19.55792,8.72283 19.55792,19.55792 l 0,275.84102 c 0,10.83509 -8.72283,19.55792 -19.55792,19.55792 l -437.91738,0 c -10.835093,0 -19.557923,-8.72283 -19.557923,-19.55792 l 0,-312.25461 c 0,-10.8351 4.892394,-16.68116 19.557923,-16.87702 z"
+         d="m 36.29097,615.00618 123.37071,2.4e-4 29.62974,33.73269 284.91693,7e-5 19.55792,0 0,295.39887 c 0,10.83509 -8.72283,19.55792 -19.55792,19.55792 l -437.91738,0 c -10.835093,0 -19.557923,-8.72283 -19.557923,-19.55792 l 0,-329.13187 z"
          style="opacity:1;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         ry="19.557924"
-         y="676.04932"
-         x="16.733034"
-         height="314.95688"
-         width="477.03323"
+      <path
          id="rect3348"
+         d="m 16.733034,676.04932 477.033236,0 0,314.95688 -477.033236,0 z"
          style="opacity:1;fill:#99ff55;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="rect4153"

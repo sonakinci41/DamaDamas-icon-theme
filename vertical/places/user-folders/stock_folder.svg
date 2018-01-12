@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="inode-directory.svg">
+   sodipodi:docname="folder.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="428.20215"
-     inkscape:cy="282.25583"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="624.9593"
+     inkscape:cy="84.618417"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,20 +53,16 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <g
-       id="g4408">
+       id="g4143">
       <path
-         sodipodi:nodetypes="sccssssssss"
+         sodipodi:nodetypes="cccccsssscc"
          inkscape:connector-curvature="0"
          id="rect4150"
-         d="m 36.290833,615.0068 123.370707,0 29.62974,33.73269 284.91693,0 c 10.83509,0 19.55792,8.72283 19.55792,19.55792 l 0,275.84102 c 0,10.83509 -8.72283,19.55792 -19.55792,19.55792 l -437.917377,0 c -10.835093,0 -19.557923,-8.72283 -19.557923,-19.55792 l 0,-312.25461 c 0,-10.8351 4.892394,-16.68116 19.557923,-16.87702 z"
+         d="m 36.290833,615.00718 123.370707,-3.8e-4 29.62974,33.73269 284.91693,-3.1e-4 19.55792,0 0,295.39925 c 0,10.83509 -8.72283,19.55792 -19.55792,19.55792 l -437.917377,0 c -10.835093,0 -19.557923,-8.72283 -19.557923,-19.55792 l 0,-329.13125 z"
          style="opacity:1;fill:#ffb800;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         ry="19.557924"
-         y="676.04968"
-         x="16.732897"
-         height="314.95688"
-         width="477.03323"
+      <path
          id="rect3348"
+         d="m 16.732897,676.04968 477.033233,0 0,314.95688 -477.033233,0 z"
          style="opacity:1;fill:#faec6d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="rect4153"
