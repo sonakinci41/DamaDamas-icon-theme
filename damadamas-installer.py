@@ -68,7 +68,7 @@ def question_is_delete():
 	if question == "Y":
 		is_delete =  True
 	elif question == "N":
-		close()
+		quit()
 	else:
 		print("Cant understand Y or N please.\n")
 		question_is_delete()
